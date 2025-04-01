@@ -80,7 +80,7 @@ All members commit themselves to fulfilling both of the following membership obl
 
 (a) to adhere to the financial obligations as stated in the Membership Fee Statute. Organisations and individual members which have fulfilled these obligations are considered in good financial standing;
 (b) to uphold the values as stated in the Manifesto.
-<!-- GET RID OF: (c) to support the work being done by the statutory bodies of the Federation. -->
+
 
 ## Membership Suspension, Termination and Modification 
 Member organisations can be temporarily suspended, or have their membership terminated, for breaches of membership obligations as described in [article](#mem-obligations) or other severe reasons. The voting procedure used for suspending or expelling an organisation is the same as would be used for admiting any other organisation of an equivalent membership type.
