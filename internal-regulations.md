@@ -229,7 +229,7 @@ The Office shall submit a written report to the member organizations on its acti
 
 ## Eligibility
 
-Every member of a full member organisation can be nominated for a position in the Bureau or ombudsperson.
+Every member of IFLRY can be nominated for a position in the Bureau or ombudsperson.
 Bureau members and the ombudsperson must be between 18 and 35 years old when they are appointed.
 
 ## Incompatibility of functions
@@ -242,7 +242,8 @@ Being a Bureau member is incompatible with:
 (c) Membership in the Advisory Council
 (d) Membership in the Office
 (e) Membership in the Committee of Discipline and Arbitrage
-(f) Acting as a delegate of a (voting) member organization
+> **Kommentar:** For small organizations, this is often the only way their organization can be present and represented at a GA at all; there should be a barrier to representation from smaller MOs at the GA.
+
 
 ### Auditor
 Being an auditor is incompatible with being a Bureau member, as well as with points d and f of [article](#bureau-member-incompatibility).
@@ -262,7 +263,8 @@ Membership in the Office is incompatible with being a Bureau member, as well as 
 Membership in the Committee of Discipline and Arbitrage is incompatible with being a Bureau member, as well as with points b, c and d of [article](#bureau-member-incompatibility).
 
 ### Acting as a delegate
-Acting as a delegate is incompatible with being a Bureau member, as well as with points a, b, c, d and f of [article](#bureau-member-incompatibility).
+Acting as a delegate is incompatible with being a Auditor, Ombudsperson, Member of Advisory Council, Member of Office, and Member of Committee of Discipline and Arbitrage.
+> **Kommentar:** For small organizations, this is often the only way their organization can be present and represented at a GA at all; there should be a barrier to representation from smaller MOs at the GA
 
 # Crisis Management
 
@@ -287,8 +289,6 @@ An internal financial crisis occurs when IFLRY lacks the necessary funds to sust
 - Debts or financial mismanagement that put IFLRY at risk of insolvency.
 
 ## Statutory meetings
-
-Elections may only be postponed in the event of a global crisis that makes holding a fair elections impossible.
 
 In the event of a crisis, it is expected that statutory meetings will be moved online, ensuring organizational continuity.
 
