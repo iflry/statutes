@@ -6,10 +6,10 @@ date: Draft version as proposed by the Statutes working group. Up to date as of 
 # General
 
 ## Name
-The association is established under Belgian law with the name "International Federation of Liberal Youth, Association Internationale Sans But Lucratif (AISBL)". This is abbreviated as IFLRY.
+The organisation is established as an association under Belgium and German law, in case of conflict of law rules, the first will prevail, with the name International Federation of Liberal Youth (abbreviated as IFLRY). It shall be formally registered with the affix AISBL (Association Internationale Sans But Lufratif) or IVWZ (Internationaal Vereniging Zonder Winstoogmerk) added to its name and is governed by the Belgian Code of Companies and Associations.
 
 ## Place
-The registered office of the association is located in the Brussels-Capital Region of Belgium. 
+The association is registered in the Brussels-Capital Region of Belgium. The head Office of the association is located in Berlin, Germany. 
 
 ## Aim {#aim}
 IFLRY is a federation of youth organisations and young individuals with the collective aim of promoting freedom and advocating for political liberalism around the globe. IFLRY commits itself to the active advancement of human rights, democracy, stable property rights, rule of law, and free trade. IFLRY provides political education and acts as a platform for networking and exchanging ideas. These aims shall be advanced through publications, seminars, policy recommendations, exchanges, symposia, courses, and statutory events. IFLRY further strives to facilitate democratic inclusion, local and international activism, and cooperation between its member organisations.
@@ -86,6 +86,8 @@ All members commit themselves to fulfilling both of the following membership obl
 Member organisations can be temporarily suspended, or have their membership terminated, for breaches of membership obligations as described in [article](#mem-obligations) or other severe reasons. The voting procedure used for suspending or expelling an organisation is the same as would be used for admiting any other organisation of an equivalent membership type.
 
 # Statutory Bodies
+The statutory bodies of the association are the General Assembly, the
+Bureau, and the Advisory Council.
 
 ## General Assembly {#ga}
 The General Assembly is the highest decision-making body of IFLRY and has full powers to accomplish the aims and objectives of the Federation. The General Assembly is made up of all members of the Federation.
@@ -152,3 +154,5 @@ In case of dissolution, any remaining net assets of the AISBL shall be allocated
 
 
 
+
+Official versions of these statutes may be produced in multiple languages to help facilitate understanding and enforcement. The most authoritative, and only legally binding version, will be in French as a result of the registration of the association in a French-speaking region of Belgium (Article 1.2: Place). If a discrepancy exists between the official versions in any language, the French version will take precedence. Amendments approved by the General Assembly in other official languages of IFLRY shall be translated under the direction of the Office into French.
