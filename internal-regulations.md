@@ -185,6 +185,18 @@ The Bureau is required to submit a written report to the member organisations on
 
 The Treasurer is required to submit an annual financial report to a General Assembly at the first GA in the second half of the financial year, and interim financial reports for every other General Assembly. The financial reports must include a list of organisations in good standing with the Federation, and the date on which every member organisation in good standing fulfilled an annual membership fee obligation used to determine good standing. The financial report must also include the current balance of all bank accounts.
 
+### Handover
+
+All Bureau members are obligated to conduct a proper handover of their portfolio to their successors or to the remaining Bureau members upon the conclusion of their term or in the event of resignation. This handover must include:
+
+(a) A comprehensive transfer of all relevant documents, files, and digital access credentials;
+(b) A detailed summary of ongoing projects, commitments, and pending matters;
+(c) An overview of key contacts, relationships, and communication channels;
+(d) A briefing on any unresolved issues or challenges that require attention;
+(e) A handover meeting with the incoming Bureau member or designated successor.
+
+The handover process should be completed within two weeks of the conclusion of the outgoing member's term or resignation, and must be documented and reported to the Bureau. In cases where no immediate successor is appointed, the handover documentation shall be maintained by the Secretary General until a successor assumes the portfolio.
+
 ## Suspension 
 A quorum of more than 50% of the Bureau members with voting rights is needed in order for a decision to be valid. If a Bureau member fails to attend more than three Bureau Meetings in a row, without explaining the reason for not attending, their position will be discussed by the Bureau. The Bureau may suspend the Bureau member in question, by a two-thirds majority vote. Moreover, the Bureau can also call a vote to suspend a Bureau member if that member has become a serious liability to IFLRY’s reputation, is suspected of some serious misconduct, or is suspected of fraudulent behaviour. Such a vote has to be called for by at least three Bureau members, and announced to the Bureau and MOs at least two weeks before the Bureau vote for suspension. The announcement has to include the grounds on which the three Bureau members believe this paragraph to be applicable. For this vote the member who is proposed to be suspended has no vote, and the vote is carried if and only if no present Bureau member votes against it, and a majority of Bureau votes cast being in favour (counting present abstentions as votes cast).
 
