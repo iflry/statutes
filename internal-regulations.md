@@ -203,7 +203,7 @@ The Bureau will have to submit for adoption once a year an Annual Report at leas
 
 If there is more than one statutory meeting every year, the Bureau will present an interim report to show what the current status of the realisation of the Action Plan is.
 
-### Bureau Reports  {#breports}
+### Bureau Report  {#breports}
 
 The Bureau is required to submit a written report to the member organisations on its activities four weeks before the start of the General Assembly. This report will reflect the work carried out by each individual Bureau member and will be presented at the General Assembly.
 
