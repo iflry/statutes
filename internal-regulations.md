@@ -61,7 +61,7 @@ party, or foundation, and what form that link takes.
 To qualify for full membership, an organisation must:
 
 (a) The organisation is a national youth organisation, or a sub-national youth organisation that is not part of a national organisation;
-(b) The organisation is not a member of any other pan-international political organisation that is not based on the ideas of the Manifesto;
+(b) The organisation is not a member of any other pan-international political organisation that is based on ideas contrary to the ideas of the Manifesto;
 (c) It must be run by and for young people;
 (d) It must be democratically organised;
 (e) It must be in agreement with the aims of IFLRY;
@@ -75,7 +75,7 @@ Bureau member or an appointee of the Bureau prior to their application being dis
 To qualify for associate membership, an organisation must:
 
 (a) The organisation is a national youth organisation, or a sub-national youth organisation that is not part of a national organisation;
-(b) The organisation is not a member of any other pan-international political organisation that is not based on the ideas of the Manifesto;
+(b) The organisation is not a member of any other pan-international political organisation that is based on ideas contrary to the ideas of the Manifesto;
 (c) It must be run by and for young people;
 (d) It must be democratically organised;
 (e) It must be in agreement with the aims of IFLRY;
@@ -87,14 +87,14 @@ Bureau member or an appointee of the Bureau prior to their application being dis
 To qualify for observer membership, an organisation must:
 
 (a) The organisation is a national youth organisation, or a sub-national youth organisation that is not part of a national organisation;
-(b) The organisation is not a member of any other pan-international political organisation that is not based on the ideas of the Manifesto;
+(b) The organisation is not a member of any other pan-international political organisation that is based on ideas contrary to the ideas of the Manifesto;
 (c) It must be democratically organised;
 (d) It must have attended at least one IFLRY event prior to making the application; for purpose of defining such an event, a seminar linked to a General Assembly is to be considered the same event; therefore, the application cannot be made at that General Assembly;
 (e) Be run for young people.
 
 ### Regional membership
 (a) The organisation is a supranational youth organisation;
-(b) The organisation is not a member of any other pan-international political organisation that is not based on the ideas of the Manifesto;
+(b) The organisation is not a member of any other pan-international political organisation that is based on ideas contrary to the ideas of the Manifesto;
 (c) It must be run by and for young people;
 (d) It must be democratically organised;
 (e) It must be in agreement with the aims of IFLRY;

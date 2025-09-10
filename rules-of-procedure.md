@@ -130,7 +130,7 @@ At the opening of the General Assembly, while adopting the agenda, the membershi
 Those resolutions shall be dealt with, which, in the opinion of the General Assembly, could not have been proposed before the official deadline due to their urgent nature. Such resolutions should be submitted to the IFLRY Office before the beginning of the General Assembly, unless a two-thirds majority of those present and voting accept a later resolution as urgent.
 
 ## Reports {#reports}
-Items which report on the status quo. This includes financial reports, advicory council and auditor reports. The deadline for submitting reports is two weeks before the Statutory Meeting. The Bureau report and Annual report need to be submitted four weeks before the statutory meeting.
+Items which report on the status quo. This includes financial reports, advisory council and auditor reports. The deadline for submitting reports is two weeks before the Statutory Meeting. The Bureau report and Annual report need to be submitted four weeks before the statutory meeting.
 
 ## Amendments {#amendments}
 Only proposals may be amended by the statutory event.
