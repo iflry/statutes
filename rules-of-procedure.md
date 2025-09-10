@@ -133,9 +133,15 @@ Those resolutions shall be dealt with, which, in the opinion of the General Asse
 Items which report on the status quo. This includes Bureau reports, annual reports, financial reports and auditor reports. The deadline for submitting reports is two weeks before the Statutory Meeting.
 
 ## Discharge {#discharge}
-Discharge is the formal release of individual Bureau members from their official responsibilities and obligations upon the conclusion of their term or resignation. It represents the General Assembly's acknowledgment that the member has completed their duties and can be released from any remaining responsibilities to the Federation. Discharge for Bureau members, other than at the end of their mandate, shall only be granted after all remaining responsibilities have been fulfilled. This includes the completion of a proper handover as specified in the Internal Regulations, and for the Treasurer, the fulfillment of all financial obligations. When responsibilities have not been fulfilled, the General Assembly can either decide to postpone granting discharge until such responsibilities have been fulfilled, or grant dishonourable discharge. 
+Discharge is the formal release of an individual Bureau member from their official responsibilities and obligations upon the conclusion of their term of office or resignation. It represents the General Assembly’s recognition that the Bureau member has fulfilled their duties and is no longer accountable for them.
 
-Each individual Bureau member's discharge shall be voted on separately. The discharge vote shall be included as a regular agenda item at each General Assembly after the Bureau transition until discharge is granted, and shall be considered after the relevant reports have been presented and discussed.
+Discharge shall only be granted after all outstanding responsibilities have been fulfilled. This includes the completion of a proper handover as specified in the Internal Regulations, and for the Treasurer, the fulfillment of all financial obligations.
+
+If responsibilities have not been fulfilled, the General Assembly may either:
+(a) postpone discharge until the responsibilities are met, or
+(b) grant a dishonourable discharge.
+
+Each Bureau member’s discharge shall be voted on separately. The discharge vote is a standing agenda item at every General Assembly following the Bureau transition. This item shall remain on the agenda until the Bureau member concerned has been granted discharge. The vote on discharge shall always take place after the relevant reports have been presented and discussed.
 
 ## Amendments {#amendments}
 Only proposals may be amended by the statutory event.
