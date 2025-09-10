@@ -135,7 +135,7 @@ Items which report on the status quo. This includes Bureau reports, annual repor
 ## Amendments {#amendments}
 Only proposals may be amended by the statutory event.
 
-Only amendments that are submitted 24 hours prior to the opening of the meeting will be formally discussed, unless otherwise stated.
+Only amendments that are submitted 24 hours prior to the opening of the meeting, or before the Pre-Assembly meeting in case of amendments to resolutions, will be formally discussed, unless otherwise stated.
 
 Secondary amendments can be dealt with on the spot, if the respective Standing Committee agrees by simple majority.
 
@@ -174,6 +174,22 @@ The proposer of a resolution may withdraw the resolution at any time before the 
 
 ## Standing Committee on Statutory Documents 
 The Standing Committee on Statutory Documents shall review any proposed amendments to the Statutes, Rules of Procedure, and Internal Regulations prior to their consideration by the GA. In addition, the Committee on Rules shall propose additional rules as necessary covering each GA which shall be adopted immediately following the determination of a quorum at each GA.
+
+# Pre-Assembly Committee
+
+A Pre-Assembly Committee shall be convened online at the latest during the weekend prior to each General Assembly. 
+
+The Pre-Assembly Committee shall review all amendments to the Manifesto, resolutions, and all amendments to those resolutions submitted for consideration at the upcoming General Assembly, facilitate discussion, and will issue non-binding recommendations to the General Assembly and its Standing Committees on all of the submitted amendments to the manifesto, resolutions and the amendments to those resolutions. 
+
+Additionally, it may submit amendments to the resolutions and amendments, both the manifesto and to the submitted resolutions, it considers, or allow Member organisations to do so with a deadline of 24 hours until the start of the General Assembly.
+
+The Committee may, to adequately deal with the workload, be divided into a number of subcommittees that shall convene simultaniously. The amount of subcommittees shall, unless otherwise communicated by the Bureau, be two, and shall not exceed three.
+
+The Pre-Assembly Committee shall be composed of representatives from delegates to the upcoming General Assembly, a Pre-Assembly Committee Chairs and Minute Takers, both matching the amount of subcommittees, approved after nomination from the bureau , or should that candidate not be approve, elected from its midst after nomination from the floor.
+
+In the Pre-Assembly Committee, the full and associate member organisations have one vote each, and only one delegate per member organisation may contribute to the discussion and vote of the Pre-Assembly Committee and each subcommittee. 
+
+No roll call or quorum is required for the Pre-Assembly Committee.
 
 # Standing Orders {#standing-oreders}
 
