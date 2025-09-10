@@ -132,6 +132,17 @@ Those resolutions shall be dealt with, which, in the opinion of the General Asse
 ## Reports {#reports}
 Items which report on the status quo. This includes Bureau reports, annual reports, financial reports and auditor reports. The deadline for submitting reports is two weeks before the Statutory Meeting.
 
+## Discharge {#discharge}
+Discharge is the formal release of an individual Bureau member from their official responsibilities and obligations upon the conclusion of their term of office or resignation. It represents the General Assembly’s recognition that the Bureau member has fulfilled their duties and is no longer accountable for them.
+
+Discharge shall only be granted after all outstanding responsibilities have been fulfilled. This includes the completion of a proper handover as specified in the Internal Regulations, and for the Treasurer, the fulfillment of all financial obligations.
+
+If responsibilities have not been fulfilled, the General Assembly may either:
+(a) postpone discharge until the responsibilities are met, or
+(b) grant a dishonourable discharge.
+
+Each Bureau member’s discharge shall be voted on separately. The discharge vote is a standing agenda item at every General Assembly following the Bureau transition. This item shall remain on the agenda until the Bureau member concerned has been granted discharge. The vote on discharge shall always take place after the relevant reports have been presented and discussed.
+
 ## Amendments {#amendments}
 Only proposals may be amended by the statutory event.
 
