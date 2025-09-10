@@ -24,7 +24,7 @@ Voting rights to a General Assembly are stipulated under [article](#ga-voting). 
 
 Associate members have the right to vote, nominate officers, the right to put forward proposals and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations or financial documents.
 
-Regional members have the right to put forward resolutions and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations or financial documents. 
+Regional members have the right to put forward resolutions and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations or financial documents.
 
 Observer members have the right to observe, co-sign political proposals and their amendments and contribute to discussions on political proposals, but no right to vote, nominate candidates or put forward organisational proposals. Observer members are treated as non-
 voting members and therefore only have the right to observe the proceedings of the Federation and its General Assembly.
