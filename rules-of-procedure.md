@@ -124,6 +124,8 @@ Items which propose a change from the status quo. This can include, but is not l
 
 Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organisations no later than one week before the General Assembly.
 
+Resolutions adopted by the General Assembly shall remain valid for a period of four years from the date of adoption, after which they shall automatically expire unless re-adopted by the General Assembly as a new political proposal. This clause shall not apply to amendments to the Manifesto.
+
 At the opening of the General Assembly, while adopting the agenda, the membership will vote on the prioritisation of the political proposals that have been submitted. Resolutions will be discussed following the list based on the number of votes, from highest number of votes, to lowest number of votes last.
 
 ## Urgency Proposals {#urgency}
