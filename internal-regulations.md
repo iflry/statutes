@@ -266,7 +266,7 @@ The Ombudsperson shall be nominated by the Committee of Discipline and Arbitrati
 
 ## Composition 
 
-The Committee of Discipline and Arbitration shall be composed of three members selected by the Bureau and approved by the General Assembly for a two year mandate.
+The Committee of Discipline and Arbitration shall be composed of three members, and approved by the General Assembly for a two year mandate.
 
 ## Vacancies 
 
