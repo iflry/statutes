@@ -177,7 +177,7 @@ The Standing Committee on Statutory Documents shall review any proposed amendmen
 
 # Pre-Assembly Committee
 
-A Pre-Assembly Committee shall be convened online at the latest during the weekend prior to each General Assembly. 
+A Pre-Assembly Committee shall convene online no earlier than two weeks prior to, and no later than the weekend immediately preceding, each General Assembly.
 
 The Pre-Assembly Committee shall review all amendments to the Manifesto, resolutions, and all amendments to those resolutions submitted for consideration at the upcoming General Assembly, facilitate discussion, and will issue non-binding recommendations to the General Assembly and its Standing Committees on all of the submitted amendments to the manifesto, resolutions and the amendments to those resolutions. 
 
@@ -188,6 +188,8 @@ The Committee may, to adequately deal with the workload, be divided into a numbe
 The Pre-Assembly Committee shall be composed of representatives from delegates to the upcoming General Assembly, a Pre-Assembly Committee Chairs and Minute Takers, both matching the amount of subcommittees, approved after nomination from the bureau , or should that candidate not be approve, elected from its midst after nomination from the floor.
 
 In the Pre-Assembly Committee, the full and associate member organisations have one vote each, and only one delegate per member organisation may contribute to the discussion and vote of the Pre-Assembly Committee and each subcommittee. 
+
+The Minute Takers shall record the outcome of votes at the Pre-Assembly Committee, as well as any amendments submitted during the discussion at the Pre-Assembly Committee, or the issues on which the Pre-Assembly Committee authorised MOs to submit amendments after the Pre-Assembly Committee. These minutes will be published no later than a day after the Pre-Assembly Committee.
 
 No roll call or quorum is required for the Pre-Assembly Committee.
 
