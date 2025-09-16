@@ -255,7 +255,7 @@ It is the responsibility of the auditors to make their annual report available o
 The Ombudsperson shall serve as guardian to protect the interests of the Federation and all its associated individuals within the day-to-day proceedings of the Bureau, Office, and 
 Auditors (as well as non-statutory bodies, such as Programme Managers) and to serve as an independent body of negotiation and mediation.
 
-The Ombudsperson shall be elected by the General Assembly and serve a term of two years. In the event that no Ombudsperson is serving, the Bureau shall designate an interim contact person to ensure that concerns of members and associated individuals are received. This interim contact person shall not be considered an Ombudsperson and shall not produce an annual report. The vacancy shall be filled at the next General Assembly.
+The Ombudsperson shall be nomimated by the Committee of Discipline and Arbitration and confirmed by the General Assembly and serve a term of two years. In the event that no Ombudsperson is serving, the Bureau shall designate an interim contact person to ensure that concerns of members and associated individuals are received. This interim contact person shall not be considered an Ombudsperson and shall not produce an annual report.
 
 The Ombudsperson shall produce an annual report presented at the General Assembly. It is the responsibility of the Ombudsperson to make their annual report available once a year to the member organisations two weeks before the General Assembly takes place.
 
@@ -287,7 +287,7 @@ This suspension must be passed by a two-thirds majority on both bodies. A suspen
 
 ## Additional Rights
 
-The committee shall possess the right to propose changes to the statutes and Code of Conduct in order to enhance the disciplinary, arbitration and safeguarding procedures of IFLRY. The committee also has the right to nominate an Ombudsperson.
+The committee shall possess the right to propose changes to the statutes and Code of Conduct in order to enhance the disciplinary, arbitration and safeguarding procedures of IFLRY.
 
 # Office 
 
