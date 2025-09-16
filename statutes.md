@@ -102,7 +102,7 @@ An Extraordinary General Assembly can be called by a simple majority by the Bure
 ## The Bureau {#bureau}
 
 ### General
-The IFLRY Bureau consists of up to seven Bureau members elected by a General Assembly. The **Managing Bureau** consists of three Bureau members: **President**, **Secretary General**, and **Treasurer** who shall serve as the Board of Directors (Organe d’Administration) under Belgian Law. The **Extended Bureau** consists of up to four **Vice Presidents**. The Managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau are described further in the Rules of Procedure.
+The IFLRY Bureau consists of up to seven Bureau members elected by a General Assembly. The **Managing Bureau** consists of three Bureau members: **President**, **Secretary General**, and **Treasurer** who shall serve as the Board of Directors (Organe d’Administration) under Belgian Law. The **Bureau** consists of the Managing Bureau and up to four **Vice Presidents**. The Managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau are described further in the Rules of Procedure.
 
 The Bureau is responsible for the day-to-day management of the Federation and for the control of all its resources. The Bureau has to report to the General Assembly. Regional Member Organisations can appoint Regional Bureau Appointees. Regional Bureau Appointees do not have voting rights in the Bureau.
 
