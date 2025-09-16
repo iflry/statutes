@@ -124,6 +124,8 @@ Items which propose a change from the status quo. This can include, but is not l
 
 Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organisations no later than one week before the General Assembly.
 
+Resolutions adopted by the General Assembly shall be subject to review four years after the date of adoption. Four weeks before each General Assembly the Bureau shall circulate a list of resolutions due for review to the Standing Committee on Resolutions and Manifesto. The GA shall decide whether to archive or re-submit a reviewed resolution. Any amendments shall follow the normal procedures for political proposals. If no decision is taken, the resolution remains in force and will be placed on the agenda for review at the next GA.
+
 At the opening of the General Assembly, while adopting the agenda, the membership will vote on the prioritisation of the political proposals that have been submitted. Resolutions will be discussed following the list based on the number of votes, from highest number of votes, to lowest number of votes last.
 
 ## Urgency Proposals {#urgency}
