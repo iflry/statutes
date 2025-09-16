@@ -122,7 +122,7 @@ Items which propose a change from the status quo. This can include, but is not l
 ## Political Proposals {#political-proposals}
 Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is three weeks before the General Assembly, and shall be made available to the member organisations no later than 48 hours after the deadline.
 
-Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organisations no later than one three weeks before the General Assembly.
+Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organisations no later than three weeks before the General Assembly.
 
 At the opening of the General Assembly, while adopting the agenda, the membership will vote on the prioritisation of the political proposals that have been submitted. Resolutions will be discussed following the list based on the number of votes, from highest number of votes, to lowest number of votes last.
 
