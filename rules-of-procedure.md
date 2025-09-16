@@ -120,9 +120,9 @@ The agenda of the statutory event may include proposals and reports. The agenda 
 Items which propose a change from the status quo. This can include, but is not limited to, organisational motions, the budget proposal, and amendments to the statutory documents. The deadline for submitting organisational proposals is four weeks before the Statutory Meeting or one week after the announcement of an Extraordinary General Assembly, whichever gives the member organisations more time.
 
 ## Political Proposals {#political-proposals}
-Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is two weeks before the General Assembly, and shall be made available to the member organisations no later than one week before the General Assembly.
+Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is three weeks before the General Assembly, and shall be made available to the member organisations no later than 48 hours after the deadline.
 
-Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organisations no later than one week before the General Assembly.
+Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organisations no later than one three weeks before the General Assembly.
 
 At the opening of the General Assembly, while adopting the agenda, the membership will vote on the prioritisation of the political proposals that have been submitted. Resolutions will be discussed following the list based on the number of votes, from highest number of votes, to lowest number of votes last.
 
@@ -177,7 +177,7 @@ The Standing Committee on Statutory Documents shall review any proposed amendmen
 
 # Pre-Assembly Committee
 
-A Pre-Assembly Committee shall convene online no earlier than two weeks prior to, and no later than the weekend immediately preceding, each General Assembly.
+A Pre-Assembly Committee shall convene online no earlier than two weeks prior to, and no later than the weekend immediately preceding, each General Assembly. The Bureau must announce the date and time at least two months prior to the General Assembly.
 
 The Pre-Assembly Committee shall review all amendments to the Manifesto, resolutions, and all amendments to those resolutions submitted for consideration at the upcoming General Assembly, facilitate discussion, and will issue non-binding recommendations to the General Assembly and its Standing Committees on all of the submitted amendments to the manifesto, resolutions and the amendments to those resolutions. 
 
