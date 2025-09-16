@@ -37,7 +37,7 @@ IFLRY operates on a federal structure and is primarily composed of member organi
 
 Daily management and external representation are handled by an elected executive **Bureau** (see [article](#bureau)), which operates in accordance with the Statutes and decisions of the General Assembly.
 
-The General Assembly and the Bureau are the statutory bodies that collectively govern the association in compliance with Belgian law. The association may employ staff, collectively referred to as the **Office**, to handle administrative and operational tasks (see [article](#office)). The Office operates under the direction of the Bureau.
+The General Assembly and the Bureau are the statutory bodies that collectively govern the association in compliance with Belgian law. The association may employ staff, collectively referred to as the **Office**, to handle administrative and operational tasks. The Office operates under the direction of the Bureau.
 
 # Voting Thresholds {#voting-methods}
 
@@ -116,9 +116,6 @@ The association shall be represented towards third parties and in legal matters 
 
 ## The Financial Year
 The financial year of IFLRY is the calendar year.
-
-## The Office {#office}
-The Office consists of at least the Executive Director, possibly joined by other staff as decided by the Bureau. Any changes to the Office are decided by the Bureau. In cases where the position of Executive Director is vacant, the Secretary General may act as a contact point for issues that would normally be handled by the Office. 
 
 # Amendments to Governing Documents
 Every proposal that aims to amend the documents listed in [article](#docs) can be passed by a two-thirds majority vote of the General Assembly. Proposals to change the Statutes must be made by the Bureau, or by a group of no less than two full member organisations.

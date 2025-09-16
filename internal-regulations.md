@@ -294,7 +294,9 @@ This suspension must be passed by a two-thirds majority on both bodies. A suspen
 
 The committee shall possess the right to propose changes to the statutes and Code of Conduct in order to enhance the disciplinary, arbitration and safeguarding procedures of IFLRY.
 
-# Office 
+# Office {#office}
+
+The Office consists of at least the Executive Director, possibly joined by other staff as decided by the Bureau. Any changes to the Office are decided by the Bureau. In cases where the position of Executive Director is vacant, the Secretary General may act as a contact point for issues that would normally be handled by the Office. 
 
 The Office shall submit a written report to the member organisations on its activities two weeks before the start of the General Assembly. This report will reflect the work carried out by the Office, including the Executive Director and other staff and will be presented at the General Assembly. The Executive Director has the right to attend Bureau meetings, but does not have voting rights.
 
