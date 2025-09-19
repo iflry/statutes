@@ -94,9 +94,9 @@ In elections where multiple rounds of voting are required, successive rounds sha
 The incoming Bureau members shall be installed in their roles at the close of the GA.
 
 ## President, Secretary General and Treasurer Elections {#mb-elections}
-The President, the Secretary General and the Treasurer shall be elected by simple majority vote. In the event none of the candidates to each of these positions receives more than 50% of the votes, there will be additional rounds of voting until the required majority is achieved
+Election ballots for the President, Secretary General and Treasurer shall have options for "No" and "Abstain" in addition to the nominated candidates. If no candidate receives an absolute majority, the lowest performing candidate is removed from the ballot, and another round of voting is held. 
 
-In each of the additional rounds, candidates with the lowest number of votes will be eliminated if they cannot mathematically win even if all votes from candidates with fewer votes were added to their total.
+If there is only one candidate, and that candidate receives no absolute majority, nominations for the position will be reopened, with any full member organization entitled to nominate a candidate immediately. In this case, previous candidates may also be re-nominated, and the term of office for the affected position shall be until the next General Assembly. At the next General Assembly, a regular election shall be held to fill the remainder of the mandate.
 
 ## Vice President Elections {#vp-elections}
 The Vice Presidents of the organisation shall be elected using the single transferable vote system (STV), in a way that safeguards the anonymity of votes.
