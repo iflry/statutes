@@ -127,7 +127,7 @@ A request for voluntary resignation by a member organisation needs to be filed w
 
 Members need to be informed about this motion three weeks prior to the start of the statutory event. The Bureau is required to put forward a motion confirming the expulsion of any member which has retained candidate membership status for four years.
 
-The expulsion from the association is to be decided by a two-thirds majority of those present and voting at the General Assembly. Members that are no longer part of the association have no rights to the financial assets. An individual member can terminate their membership by simple declaration to the Office or Individual Members Group Chair.
+The expulsion from the association is to be decided by a two-thirds majority of those present and voting at the General Assembly. Members that are no longer part of the association have no rights to the financial assets. An individual member can terminate their membership by simple written declaration to the Office or Individual Members Group Chair.
 
 # Bureau {#bureau}
 
