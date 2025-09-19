@@ -36,7 +36,11 @@ International Federation of Liberal Youth in one of IFLRY’s official languages
 The application for associate membership must include all points of [article](#full-app).
 
 ### Observer Membership
-The application for observer membership must include points (a) and (b) of [article](#full-app).
+The application for observer membership must include the following information:
+
+(a) A completed membership application form (provided by the Bureau) containing general information required for the Membership Register;
+(b) Copies of its Statutes/Constitution, and copies of its Policy Programme/Ideological standpoint in at least one of IFLRY’s official languages and in its original form if that is not in Statutes of the
+International Federation of Liberal Youth in one of IFLRY’s official languages;
 
 ### Regional Membership
 The application for regional membership must include all points of [article](#full-app).
@@ -57,7 +61,7 @@ party, or foundation, and what form that link takes.
 To qualify for full membership, an organisation must:
 
 (a) The organisation is a national youth organisation, or a sub-national youth organisation that is not part of a national organisation;
-(b) The organisation is not a member of any other pan-international political organisation that is not based on the ideas of the Manifesto;
+(b) The organisation is not a member of any other pan-international political organisation that is based on ideas contrary to the ideas of the Manifesto;
 (c) It must be run by and for young people;
 (d) It must be democratically organised;
 (e) It must be in agreement with the aims of IFLRY;
@@ -68,18 +72,40 @@ Bureau member or an appointee of the Bureau prior to their application being dis
 (i) It must have been represented at a minimum of one General Assembly, which must be additional to those meetings where the Associate Membership application was accepted.
 
 ### Associate membership
-To qualify for associate membership, an organisation must comply with points (a) through (g) of [article](#full-membership).
+To qualify for associate membership, an organisation must:
+
+(a) The organisation is a national youth organisation, or a sub-national youth organisation that is not part of a national organisation;
+(b) The organisation is not a member of any other pan-international political organisation that is based on ideas contrary to the ideas of the Manifesto;
+(c) It must be run by and for young people;
+(d) It must be democratically organised;
+(e) It must be in agreement with the aims of IFLRY;
+(f) It must have attended at least one IFLRY event prior to making the application; for purpose of defining such an event, a seminar linked to a General Assembly is to be considered the same event; therefore, the application cannot be made at that General Assembly;
+(g) At least one event or activity organised by the applicant organisation must have been visited by a
+Bureau member or an appointee of the Bureau prior to their application being discussed;
 
 ### Observer membership
-To qualify for observer membership, an organisation must comply with points (a), (b), (d), and (f) of [article](#full-membership), and:
+To qualify for observer membership, an organisation must:
 
-(j) Be run for young people.
+(a) The organisation is a national youth organisation, or a sub-national youth organisation that is not part of a national organisation;
+(b) The organisation is not a member of any other pan-international political organisation that is based on ideas contrary to the ideas of the Manifesto;
+(c) It must be democratically organised;
+(d) It must have attended at least one IFLRY event prior to making the application; for purpose of defining such an event, a seminar linked to a General Assembly is to be considered the same event; therefore, the application cannot be made at that General Assembly;
+(e) Be run for young people.
 
 ### Regional membership
+(a) The organisation is a supranational youth organisation;
+(b) The organisation is not a member of any other pan-international political organisation that is based on ideas contrary to the ideas of the Manifesto;
+(c) It must be run by and for young people;
+(d) It must be democratically organised;
+(e) It must be in agreement with the aims of IFLRY;
+(f) The applicant must be constituted as an independent organisation in its own right, with membership composed of national and sub-national youth organizations rather than individuals.
+(g) At least one event or activity organised by the applicant organisation must have been visited by a
+Bureau member or an appointee of the Bureau prior to their application being discussed;
+
 To qualify for regional membership, an organisation must comply with all points of [article](#full-membership).
 
 ### Individual Membership
-Everyone, aged between 18 and 35 years, who broadly agrees with the Manifesto and agrees with the aims of IFLRY, can become part of the Individual Members Group of IFLRY. An individual member cannot be directly or indirectly linked to or dependent on any IFLRY Full or Associate Member Organisation.
+Everyone, aged between 18 and 35 years, who broadly agrees with the Manifesto and agrees with the aims of IFLRY, can become part of the Individual Members Group of IFLRY. An individual member cannot already be represented by an IFLRY Full or Associate Member Organisation.
 
 ## Suspension 
 
@@ -101,7 +127,7 @@ A request for voluntary resignation by a member organisation needs to be filed w
 
 Members need to be informed about this motion three weeks prior to the start of the statutory event. The Bureau is required to put forward a motion confirming the expulsion of any member which has retained candidate membership status for four years.
 
-The expulsion from the association is to be decided by a two-thirds majority of those present and voting at the General Assembly. Members that are no longer part of the association have no rights to the financial assets. An individual member can terminate their membership by simple declaration to the Office or Individual Members Group Chair.
+The expulsion from the association is to be decided by a two-thirds majority of those present and voting at the General Assembly. Members that are no longer part of the association have no rights to the financial assets. An individual member can terminate their membership by simple written declaration to the Office or Individual Members Group Chair.
 
 # Bureau {#bureau}
 
@@ -177,7 +203,7 @@ The Bureau will have to submit for adoption once a year an Annual Report at leas
 
 If there is more than one statutory meeting every year, the Bureau will present an interim report to show what the current status of the realisation of the Action Plan is.
 
-### Bureau Reports  {#breports}
+### Bureau Report  {#breports}
 
 The Bureau is required to submit a written report to the member organisations on its activities four weeks before the start of the General Assembly. This report will reflect the work carried out by each individual Bureau member and will be presented at the General Assembly.
 
@@ -322,29 +348,71 @@ Being a Bureau member is incompatible with:
 (c) Membership in the Advisory Council
 (d) Membership in the Office
 (e) Membership in the Committee of Discipline and Arbitration
-(f) Acting as a delegate of a (voting) member organisation, unless otherwise specified in ...
+(f) Acting as a delegate of a (voting) member organisation, unless otherwise specified in [article](#incomp-delegate)
 
 ### Auditor
-Being an auditor is incompatible with being a Bureau member, as well as with points (d), (e) and (f) of [article](#incomp-bm).
+
+Being an auditor is incompatible with:
+
+(a) Being a Bureau member
+(b) Membership in the Office
+(c) Membership in the Committee of Discipline and Arbitration
+(d) Acting as a delegate of a (voting) member organisation
 
 ## Ombudsperson
-Being an Ombudsperson is incompatible with being a Bureau member, as well as with points (d), (e) and (f) of [article](#incomp-bm).
+
+Being an Ombudsperson is incompatible with:
+
+(a) Being a Bureau member
+(b) Membership in the Office
+(c) Membership in the Committee of Discipline and Arbitration
+(d) Acting as a delegate of a (voting) member organisation
 
 ### Advisory Council
-Membership in the Advisory Council is incompatible with being a Bureau member, as well as with points (a), (d), and (f) of [article](#incomp-bm). To ensure an adequate understanding of the workings of an organisation like IFLRY, a candidate for AC membership:
 
-(g) must have at least two years of experience in an elected or managerial position in the liberal network.
+Membership in the Advisory Council is incompatible with:
+
+(a) Being a Bureau member
+(b) Being an auditor 
+(c) Membership in the Office
+(d) Acting as a delegate of a (voting) member organisation
+
+To ensure an adequate understanding of the workings of an organisation like IFLRY, a candidate for AC membership:
+
+(e) must have at least two years of experience in an elected or managerial position in the liberal network.
 
 ### Office 
-Membership in the Office is incompatible with being a Bureau member, as well as with points (a), (b), (c), (d), (e) and (f) of [article](#incomp-bm). 
+
+Membership in the Office is incompatible with:
+
+(a) Being a Bureau member
+(b) Being an auditor 
+(c) Being an ombudsperson
+(d) Membership in the Advisory Council
+(e) Membership in the Committee of Discipline and Arbitration
+(f) Acting as a delegate of a (voting) member organisation
 
 ### Committee of Discipline and Arbitration
 
-Membership in the Committee of Discipline and Arbitration is incompatible with being a Bureau member, as well as with points (a), (b), (c) and (d) of [article](#incomp-bm).
+Membership in the Committee of Discipline and Arbitration is incompatible with:
 
-### Acting as a delegate
+(a) Being a Bureau member
+(b) Being an auditor 
+(c) Being an ombudsperson
+(d) Membership in the Advisory Council
+(e) Membership in the Office
 
-Acting as a delegate is incompatible with being a Bureau member, as well as with points (a), (b), (c) and (d) of [article](#incomp-bm). A Bureau member may act as a delegate of their voting member organisation, only if no other delegate from that member  organisation is present at the General Assembly, but may never speak on behalf of the member organisation.
+### Acting as a delegate {#incomp-delegate}
+
+Acting as a delegate is incompatible with:
+
+(a) Being a Bureau member
+(b) Being an auditor 
+(c) Being an ombudsperson
+(d) Membership in the Advisory Council
+(e) Membership in the Office
+
+A Bureau member may act as a delegate of their voting member organisation, only if no other delegate from that member organisation is present at the General Assembly, but may never speak on behalf of the member organisation.
 
 # Code of Conduct
 
@@ -360,17 +428,17 @@ A global crisis is an exceptional, worldwide situation that significantly disrup
 
 A global crisis that justifies crisis management must be: 
 
-- Global in nature (not limited to a specific country or region). 
-- Prolonged and unavoidable, making in-person meetings impossible for a significant portion of the Bureau or member organisations.
-- Affecting multiple regions, preventing fair participation.
+(a) Global in nature (not limited to a specific country or region). 
+(b) Prolonged and unavoidable, making in-person meetings impossible for a significant portion of the Bureau or member organisations.
+(c) Affecting multiple regions, preventing fair participation.
 
 ## Internal Crises
 
 An internal financial crisis occurs when IFLRY lacks the necessary funds to sustain its core operations, including:
 
- - A severe funding shortfall affecting staff salaries, event organisation, or administrative costs.
- - Loss of major funding sources, such as institutional grants or partner contributions.
-- Debts or financial mismanagement that put IFLRY at risk of insolvency.
+(a) A severe funding shortfall affecting staff salaries, event organisation, or administrative costs.
+(b) Loss of major funding sources, such as institutional grants or partner contributions.
+(c) Debts or financial mismanagement that put IFLRY at risk of insolvency.
 
 ## Statutory Meetings 
 
