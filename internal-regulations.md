@@ -248,9 +248,12 @@ Moreover, the AC can also call a vote to suspend an AC member if that member has
 A suspension removes an AC member from their position up to and including the next General Assembly. In a case where the suspension still stands, there will be a vote of no confidence against the suspended member organised as per the Rules of Procedure at the next General Assembly. If the motion of no-confidence fails the member is reinstated. If a motion of no-confidence is carried out, a replacement will be appointed by the General Assembly as per the Rules of Procedure.
 
 # Auditors
+There shall be two auditors, who shall be elected at a General Assembly for a period of two years. They are responsible for examining the accounts and general finances of the Federation and assessing how the Bureau has carried out the decisions taken by the General Assembly. They shall produce a report at least annually which is presented to the General Assembly.
+
 It is the responsibility of the auditors to make their annual report available once a year to the member organisations two weeks before the General Assembly takes place.
 
 # Ombudsperson
+The ombudsperson shall monitor any cases of disagreement or conflict, ill-treatment, or abuse of power and authority within any part of the Federation. The role of the Ombudsperson is bound by strict rules of confidentiality and shall be executed with full integrity, impartiality, and with respect to due process, dignity, and liberal values.
 
 The Ombudsperson shall serve as guardian to protect the interests of the Federation and all its associated individuals within the day-to-day proceedings of the Bureau, Office, and 
 Auditors (as well as non-statutory bodies, such as Programme Managers) and to serve as an independent body of negotiation and mediation.
@@ -263,13 +266,15 @@ The Ombudsperson shall be nominated by the Committee of Discipline and Arbitrati
 
 ## Composition 
 
-The Committee of Discipline and Arbitration shall be composed of 3 members, serving terms of two years.
+The Committee of Discipline and Arbitration shall be composed of three members, and approved by the General Assembly for a two year mandate.
 
 ## Vacancies 
 
 Vacancies shall be filled through co-option by the Advisory Council in conjunction with the Ombudsperson, the individual can then be confirmed as a full member of the committee through a vote at the next General Assembly. The individual may also choose not to seek membership of the committee, and other candidates may run. After the election, the successful candidate shall serve the remainder of the committee’s mandate.
 
 ## Juristiction 
+
+The Committee of Discipline and Arbitration shall be competent for any disciplinary issue not falling within the scope of the explicit rights of the General Assembly, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY events.
 
 In order to legitimately deliberate a case, the Committee of Discipline and Arbitration must be called upon by the Bureau, by a full or associate member organisation, by a participant of an official IFLRY event, or by the Ombudsperson.
 
@@ -289,7 +294,9 @@ This suspension must be passed by a two-thirds majority on both bodies. A suspen
 
 The committee shall possess the right to propose changes to the statutes and Code of Conduct in order to enhance the disciplinary, arbitration and safeguarding procedures of IFLRY.
 
-# Office 
+# Office {#office}
+
+The Office consists of at least the Executive Director, possibly joined by other staff as decided by the Bureau. Any changes to the Office are decided by the Bureau. In cases where the position of Executive Director is vacant, the Secretary General may act as a contact point for issues that would normally be handled by the Office. 
 
 The Office shall submit a written report to the member organisations on its activities two weeks before the start of the General Assembly. This report will reflect the work carried out by the Office, including the Executive Director and other staff and will be presented at the General Assembly. The Executive Director has the right to attend Bureau meetings, but does not have voting rights.
 
