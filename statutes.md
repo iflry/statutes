@@ -1,6 +1,6 @@
 ---
 title: Statutes of the International Federation of Liberal Youth
-date: As adopted by the 55th General Assembly held in Sarajevo, Bosnia and Herzegovina, 1st-4th May 2025.
+date: As adopted by the 56th General Assembly held in Lima, Peru, 17th-19th October 2025.
 ---
 
 # General
