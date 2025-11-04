@@ -99,7 +99,7 @@ The President, the Secretary General and the Treasurer shall be elected by simpl
 In each of the additional rounds, candidates with the lowest number of votes will be eliminated if they cannot mathematically win even if all votes from candidates with fewer votes were added to their total.
 
 ## Vice President Elections {#vp-elections}
-The Vice Presidents of the organisation shall be elected using the single transferable vote system (STV), in a way that safeguards the anonymity of votes.
+The Vice Presidents shall be elected at-large by STV (Meek method), with ballot secrecy safeguarded. A concise round-by-round summary shall be published by the Returning Officers after the count.
 
 ## Auditor Elections {#auditor-elections}
 For the election of auditors, the ballot can be filled with one or two names. Each name will count as one vote. It is not possible to give more than one vote to one candidate on each ballot. The two candidates who received the highest number of votes shall be elected auditors. In case of resignation of an auditor, the next person on the last auditor election results list sorted on highest number of votes will replace the vacancy.
