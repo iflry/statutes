@@ -37,7 +37,7 @@ IFLRY operates on a federal structure and is primarily composed of member organi
 
 Daily management and external representation are handled by an elected executive **Bureau** (see [article](#bureau)), which operates in accordance with the Statutes and decisions of the General Assembly.
 
-The General Assembly and the Bureau are the statutory bodies that collectively govern the association in compliance with Belgian law. The association may employ staff, collectively referred to as the **Office**, to handle administrative and operational tasks. The Office operates under the direction of the Bureau.
+The General Assembly, Bureau, and any other statutory bodies defined in the governing documents of the association collectively govern IFLRY in compliance with Belgian law. The association may employ staff, collectively referred to as the **Office**, to handle administrative and operational tasks (see [article](#office)). The Office operates under the direction of the Bureau.
 
 # Voting Thresholds {#voting-methods}
 
@@ -86,7 +86,7 @@ The General Assembly is the highest decision-making body of IFLRY and has full p
 
 The General Assembly shall meet at least once a year, at a date and place determined by the Bureau.
 
-Only full and associate member organisations in good financial standing shall be accorded voting rights. Voting rights in the General Assembly are to be distributed according to the membership type and size of the member organisation.
+Only full and Associate Member organisations in good financial standing shall be accorded voting rights. Voting rights in the General Assembly are to be distributed according to the membership type and size of the member organisation.
 
 The General Assembly holds all powers expressly granted to it by Belgian law, including but not limited to:
 
@@ -97,14 +97,14 @@ The General Assembly holds all powers expressly granted to it by Belgian law, in
 (e) Dissolution of the AISBL and allocation of its assets.
 
 ### Extraordinary General Assembly
-An Extraordinary General Assembly can be called by a simple majority by the Bureau, by (a group of) full member organisations representing at least one-fifth of the votes that would have been cast at the most recent General Assembly or one-fourth of the full member organisations or one-tenth of all organisations.
+An Extraordinary General Assembly can be called by a simple majority by the Bureau, by (a group of) Full Member organisations representing at least one-fifth of the votes that would have been cast at the most recent General Assembly or one-fourth of the Full Member organisations or one-tenth of all organisations.
 
 ## The Bureau {#bureau}
 
 ### General
 The IFLRY Bureau consists of up to seven Bureau members elected by a General Assembly. The **Managing Bureau** consists of three Bureau members: **President**, **Secretary General**, and **Treasurer** who shall serve as the Board of Directors (Organe d’Administration) under Belgian Law. The **Bureau** consists of the Managing Bureau and up to four **Vice Presidents**. The Managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau are described further in the Rules of Procedure.
 
-The Bureau is responsible for the day-to-day management of the Federation and for the control of all its resources. The Bureau has to report to the General Assembly. Regional Member Organisations can appoint Regional Bureau Appointees. Regional Bureau Appointees do not have voting rights in the Bureau.
+The Bureau is responsible for the day-to-day management of the Federation and for the control of all its resources. The Bureau has to report to the General Assembly. Regional Member Organisations can appoint Regional Bureau Appointees, who together with the Bureau, form the **Extended Bureau**. Regional Bureau Appointees do not have voting rights in the Bureau.
 
 ### Suspension and Resignation 
 Individual Bureau Members can be suspended from their Bureau. They can also be forced to resign by the General Assembly. The details of this process are explained in the Rules of Procedure.
@@ -121,7 +121,7 @@ The financial year of IFLRY is the calendar year.
 Every proposal that aims to amend the documents listed in [article](#docs) can be passed by a two-thirds majority vote of the General Assembly. Proposals to change the Statutes must be made by the Bureau, or by a group of no less than two full member organisations. Amendments must be submitted in the language used for that document as described in [article](#language).
 
 # Dissolution
-Every proposal that aims to dissolve the Federation must be put forward by the Bureau, a group of full member organisations representing at least one-fifth of the votes that could have been cast at the most recent General Assembly, or by a group of at least one-fourth of the full member organisations. Any proposal for dissolution of the Federation must be carried by two consecutive General Assemblies. At the first General Assembly, the proposal must be supported by at least a two-thirds majority. At the second General Assembly, the same proposal must have a simple majority in order to take effect.
+Every proposal that aims to dissolve the Federation must be put forward by the Bureau, a group of Full Member organisations representing at least one-fifth of the votes that could have been cast at the most recent General Assembly, or by a group of at least one-fourth of the Full Member organisations. Any proposal for dissolution of the Federation must be carried by two consecutive General Assemblies. At the first General Assembly, the proposal must be supported by at least a two-thirds majority. At the second General Assembly, the same proposal must have a simple majority in order to take effect.
 
 The General Assembly will determine in which manner the Federation is dissolved and in which manner the dissolution is settled. 
 
