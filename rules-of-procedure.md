@@ -94,9 +94,7 @@ In elections where multiple rounds of voting are required, successive rounds sha
 The incoming Bureau members shall be installed in their roles at the close of the GA.
 
 ## President, Secretary General and Treasurer Elections {#mb-elections}
-The President, the Secretary General and the Treasurer shall be elected by simple majority vote. In the event none of the candidates to each of these positions receives more than 50% of the votes, there will be additional rounds of voting until the required majority is achieved
-
-In each of the additional rounds, candidates with the lowest number of votes will be eliminated if they cannot mathematically win even if all votes from candidates with fewer votes were added to their total.
+The President, the Secretary General and the Treasurer shall be elected using instant runoff voting (IRV) with ballots for each position giving a ranked preference of candidates and an option *Reopen Nominations*. If the option *Reopen Nominations* wins, nominations for the position will be reopened, with any Full Member organisation entitled to nominate a candidate immediately. In this case, previous candidates may also be re-nominated, and the new vote will again be conducted using instant runoff voting with no option to reopen nominations. The term of office for the affected position shall be until the next General Assembly. At the next General Assembly, an election shall be held to fill this position for the remainder of the mandate following the same procedure as for the original vote.
 
 ## Vice President Elections {#vp-elections}
 The Vice Presidents shall be elected at-large by STV (Meek method), with ballot secrecy safeguarded. A concise round-by-round summary shall be published by the Returning Officers after the count.
