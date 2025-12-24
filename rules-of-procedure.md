@@ -120,9 +120,9 @@ The agenda of the statutory event may include proposals and reports. The agenda 
 Items which propose a change from the status quo. This can include, but is not limited to, organisational motions, the budget proposal, and amendments to the statutory documents. The deadline for submitting organisational proposals is four weeks before the Statutory Meeting or one week after the announcement of an Extraordinary General Assembly, whichever gives the member organisations more time.
 
 ## Political Proposals {#political-proposals}
-Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is two weeks before the General Assembly, and shall be made available to the member organisations no later than one week before the General Assembly.
+Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is three weeks before the General Assembly, and shall be made available to the member organisations no later than 48 hours after the deadline.
 
-Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organisations no later than one week before the General Assembly.
+Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organisations no later than three weeks before the General Assembly.
 
 At the opening of the General Assembly, while adopting the agenda, the membership will vote on the prioritisation of the political proposals that have been submitted. Resolutions will be discussed following the list based on the number of votes, from highest number of votes, to lowest number of votes last.
 
@@ -135,7 +135,7 @@ Items which report on the status quo. This includes Bureau reports, annual repor
 ## Amendments {#amendments}
 Only proposals may be amended by the statutory event.
 
-Only amendments that are submitted 24 hours prior to the opening of the meeting will be formally discussed, unless otherwise stated.
+Only amendments that are submitted 24 hours prior to the opening of the meeting, or before the Pre-Assembly meeting in case of amendments to resolutions, will be formally discussed, unless otherwise stated.
 
 Secondary amendments can be dealt with on the spot, if the respective Standing Committee agrees by simple majority.
 
@@ -174,6 +174,24 @@ The proposer of a resolution may withdraw the resolution at any time before the 
 
 ## Standing Committee on Statutory Documents 
 The Standing Committee on Statutory Documents shall review any proposed amendments to the Statutes, Rules of Procedure, and Internal Regulations prior to their consideration by the GA. In addition, the Committee on Rules shall propose additional rules as necessary covering each GA which shall be adopted immediately following the determination of a quorum at each GA.
+
+# Pre-Assembly Committee
+
+A Pre-Assembly Committee shall convene online no earlier than two weeks prior to, and no later than the weekend immediately preceding, each General Assembly. The Bureau must announce the date and time at least two months prior to the General Assembly.
+
+The Pre-Assembly Committee shall review all amendments to the Manifesto, resolutions, and all amendments to those resolutions submitted for consideration at the upcoming General Assembly, facilitate discussion, and will issue non-binding recommendations to the General Assembly and its Standing Committees on all of the submitted amendments to the manifesto, resolutions and the amendments to those resolutions. 
+
+Additionally, it may submit amendments to the resolutions and amendments, both the manifesto and to the submitted resolutions, it considers, or allow Member organisations to do so with a deadline of 24 hours until the start of the General Assembly.
+
+The Committee may, to adequately deal with the workload, be divided into a number of subcommittees that shall convene simultaniously. The amount of subcommittees shall, unless otherwise communicated by the Bureau, be two, and shall not exceed three.
+
+The Pre-Assembly Committee shall be composed of representatives from delegates to the upcoming General Assembly, a Pre-Assembly Committee Chairs and Minute Takers, both matching the amount of subcommittees, approved after nomination from the bureau , or should that candidate not be approve, elected from its midst after nomination from the floor.
+
+In the Pre-Assembly Committee, the full and associate member organisations have one vote each, and only one delegate per member organisation may contribute to the discussion and vote of the Pre-Assembly Committee and each subcommittee. 
+
+The Minute Takers shall record the outcome of votes at the Pre-Assembly Committee, as well as any amendments submitted during the discussion at the Pre-Assembly Committee, or the issues on which the Pre-Assembly Committee authorised MOs to submit amendments after the Pre-Assembly Committee. These minutes will be published no later than a day after the Pre-Assembly Committee.
+
+No roll call or quorum is required for the Pre-Assembly Committee.
 
 # Standing Orders {#standing-oreders}
 
