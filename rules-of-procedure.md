@@ -22,9 +22,9 @@ The General Assembly should use the official languages of the Federation. In the
 
 Voting rights to a General Assembly are stipulated under [article](#ga-voting). Full members have the right to vote, the right to nominate candidates, the right to put forward proposals and the right to submit amendments to all proposals.
 
-Associate members have the right to vote, nominate officers, the right to put forward proposals and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations or financial documents.
+Associate members have the right to vote, nominate officers, the right to put forward proposals and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations, Code of Conduct or financial documents.
 
-Regional members have the right to put forward resolutions and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations or financial documents.
+Regional members have the right to put forward resolutions and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations, Code of Conduct or financial documents.
 
 Observer members have the right to observe, co-sign political proposals and their amendments and contribute to discussions on political proposals, but no right to vote, nominate candidates or put forward organisational proposals. Observer members are treated as non-
 voting members and therefore only have the right to observe the proceedings of the Federation and its General Assembly.
@@ -117,7 +117,7 @@ Following the expulsion of an elected person it is the right of the General Asse
 The agenda of the statutory event may include proposals and reports. The agenda will be proposed to the membership four weeks before the General Assembly.
 
 ## Organisational Proposals {#organisational-proposals}
-Items which propose a change from the status quo. This can include, but is not limited to, organisational motions, the budget proposal, and amendments to the statutory documents. The deadline for submitting organisational proposals is four weeks before the Statutory Meeting or one week after the announcement of an Extraordinary General Assembly, whichever gives the member organisations more time.
+Items which propose a change from the status quo. This can include, but is not limited to, organisational motions, the budget proposal, and amendments to the statutory documents and code of conduct. The deadline for submitting organisational proposals is four weeks before the Statutory Meeting or one week after the announcement of an Extraordinary General Assembly, whichever gives the member organisations more time.
 
 ## Political Proposals {#political-proposals}
 Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is three weeks before the General Assembly, and shall be made available to the member organisations no later than 48 hours after the deadline.
@@ -130,7 +130,7 @@ At the opening of the General Assembly, while adopting the agenda, the membershi
 Those resolutions shall be dealt with, which, in the opinion of the General Assembly, could not have been proposed before the official deadline due to their urgent nature. Such resolutions should be submitted to the IFLRY Office before the beginning of the General Assembly, unless a two-thirds majority of those present and voting accept a later resolution as urgent.
 
 ## Reports {#reports}
-Items which report on the status quo. This includes Bureau reports, annual reports, financial reports and auditor reports. The deadline for submitting reports is two weeks before the Statutory Meeting.
+Items which report on the status quo. This includes financial reports, advisory council and auditor reports. The deadline for submitting reports is two weeks before the Statutory Meeting. The Bureau report and Annual report need to be submitted four weeks before the statutory meeting.
 
 ## Amendments {#amendments}
 Only proposals may be amended by the statutory event.
@@ -173,7 +173,7 @@ In voting on amendments, the chair shall normally first hold a vote on the amend
 The proposer of a resolution may withdraw the resolution at any time before the vote takes place.
 
 ## Standing Committee on Statutory Documents 
-The Standing Committee on Statutory Documents shall review any proposed amendments to the Statutes, Rules of Procedure, and Internal Regulations prior to their consideration by the GA. In addition, the Committee on Rules shall propose additional rules as necessary covering each GA which shall be adopted immediately following the determination of a quorum at each GA.
+The Standing Committee on Statutory Documents shall review any proposed amendments to the Statutes, Rules of Procedure, Internal Regulations, Code of Conduct prior to their consideration by the GA. In addition, the Committee on Rules shall propose additional rules as necessary covering each GA which shall be adopted immediately following the determination of a quorum at each GA.
 
 # Pre-Assembly Committee
 
@@ -230,7 +230,7 @@ Should any of these motions passed during a Standing Committee have an effect ex
 Assembly.
 
 # Minutes
-The decisions of the General Assembly shall be entered in the minutes and will be made available to the members no later than 30 days following the adjournment of the General Assembly and shall be signed by one of the auditors. This falls under the responsibility of the two auditors.
+The decisions of the General Assembly shall be entered in the minutes and will be made available to the members no later than 30 days following the adjournment of the General Assembly and shall be signed by one of the auditors. This falls under the responsibility of the two auditors. Any new statutory documents adopted by the General Assembly shall be published together with the minutes.
 
 In the case of an Extraordinary General Assembly, no decisions on items not mentioned on the agenda can be taken.
 
