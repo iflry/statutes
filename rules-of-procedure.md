@@ -1,6 +1,6 @@
 ---
 title: Rules of Procedure of the International Federation of Liberal Youth
-date: As adopted by the 55th General Assembly held in Sarajevo, Bosnia and Herzegovina, 1st-4th May 2025
+date: As adopted by the 56th General Assembly held in Lima, Peru, 17th-19th October 2025.
 ---
 
 # General Assembly {#ga}
@@ -164,6 +164,8 @@ The Standing Committee on Finances shall discuss and review any proposed documen
 GA.
 
 The Membership Fee Statute for each upcoming year shall be proposed by the Bureau and disseminated among the member organisations four weeks prior to the General Assembly.It shall include the calculation method for the membership fees, rules regarding reduced membership fee applications and other membership fee related issues.
+
+The internal discussion on financial applications is dealt with in closed session. Participants from the General Assembly who represent the member organization being discussed, have to leave the room.
 
 ## Standing Committee on Membership 
 The Standing Committee on Membership shall deal with the relevant membership issues prior to their consideration by the GA. This may be membership applications, membership suspensions, membership expulsion, or other relevant issues.
