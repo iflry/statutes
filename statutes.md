@@ -84,7 +84,7 @@ Member organisations and individual members can be temporarily suspended, or hav
 ## General Assembly {#ga}
 The General Assembly is the highest decision-making body of IFLRY and has full powers to accomplish the aims and objectives of the Federation. The General Assembly is made up of all members of the Federation.
 
-The General Assembly shall meet at least once a year, at a date and place determined by the Bureau.
+The General Assembly shall meet at least once a year, at a date and place determined by the Bureau. An invitation to the General Assembly shall be sent to all members at least eight weeks before the meeting. The decisions of the General Assembly shall be communicated to the members no later than thirty days after adjournment, in accordance with the Rules of Procedure.
 
 Only full and Associate Member organisations in good financial standing shall be accorded voting rights. Voting rights in the General Assembly are to be distributed according to the membership type and size of the member organisation.
 

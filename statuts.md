@@ -84,7 +84,7 @@ Les organisations membres et les membres individuels peuvent être temporairemen
 ## Assemblée générale {#ga}
 L'Assemblée générale est l'organe décisionnel suprême de l'IFLRY et dispose de tous les pouvoirs nécessaires pour réaliser les objectifs de la Fédération. L'Assemblée générale est composée de tous les membres de la Fédération.
 
-L'Assemblée générale se réunit au moins une fois par an, à une date et en un lieu déterminés par le Bureau.
+L'Assemblée générale se réunit au moins une fois par an, à une date et en un lieu déterminés par le Bureau. Une invitation à l'Assemblée générale est envoyée à tous les membres au moins huit semaines avant la réunion. Les décisions de l'Assemblée générale sont communiquées aux membres au plus tard trente jours après la clôture, conformément au Règlement d'ordre intérieur.
 
 Seules les organisations membres effectives et associées en règle financière disposent du droit de vote. Les droits de vote à l'Assemblée générale sont répartis en fonction du type et de la taille de l'organisation membre.
 
