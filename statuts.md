@@ -76,6 +76,13 @@ Tous les membres s'engagent à respecter les deux obligations suivantes :
 (a) respecter les obligations financières telles que définies dans le Statut relatif aux cotisations. Les organisations et membres individuels ayant rempli ces obligations sont considérés comme étant en règle financièrement ;
 (b) respecter les valeurs telles qu'énoncées dans le Manifeste.
 
+## Droits des membres {#mem-rights}
+Tous les membres ont le droit de participer à l'Assemblée générale et d'accéder aux procès-verbaux et aux comptes annuels de l'association.
+
+Les Membres Effectifs ont le droit de vote à l'Assemblée générale, le droit de présenter des candidats, ainsi que le droit de soumettre et d'amender des propositions. Les Membres Associés et le Groupe des Membres Individuels ont le droit de vote et le droit de soumettre et d'amender des propositions, sous réserve des limitations prévues dans le Règlement d'ordre intérieur. Les Membres Régionaux ont le droit de soumettre des résolutions et des amendements. Les Membres Observateurs ont le droit d'observer les délibérations mais ne disposent pas du droit de vote.
+
+L'étendue détaillée des droits de chaque catégorie de membres est définie dans le Règlement d'ordre intérieur.
+
 ## Suspension, Exclusion et Modification de l'adhésion
 Les organisations membres et les membres individuels peuvent être temporairement suspendus ou voir leur adhésion résiliée en cas de violation des obligations des membres telles que décrites à l'[article](#mem-obligations) ou pour d'autres raisons graves. La procédure de vote utilisée pour suspendre ou exclure une organisation est la même que celle utilisée pour admettre toute autre organisation d'un type d'adhésion équivalent.
 
@@ -86,7 +93,7 @@ L'Assemblée générale est l'organe décisionnel suprême de l'IFLRY et dispose
 
 L'Assemblée générale se réunit au moins une fois par an, à une date et en un lieu déterminés par le Bureau.
 
-Seules les organisations membres effectives et associées en règle financière disposent du droit de vote. Les droits de vote à l'Assemblée générale sont répartis en fonction du type et de la taille de l'organisation membre.
+Seuls les Membres Effectifs, les Membres Associés et le Groupe des Membres Individuels en règle financière disposent du droit de vote. Le Groupe des Membres Individuels est considéré comme étant en règle financière dès lors qu'au moins un de ses membres est en règle financièrement. Les droits de vote à l'Assemblée générale sont répartis en fonction du type et de la taille de l'organisation membre.
 
 L'Assemblée générale dispose de tous les pouvoirs qui lui sont expressément attribués par le droit belge, y compris, mais sans s'y limiter :
 
