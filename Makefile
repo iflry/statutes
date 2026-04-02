@@ -10,7 +10,7 @@ LINK_FILTER = config/custom-links.lua
 BUILD_FOLDER = build
 
 # Formal documents (numbered sections, TOC, line numbering)
-FORMAL_DOCS = statutes rules-of-procedure internal-regulations manifesto code-of-conduct
+FORMAL_DOCS = statutes statuts rules-of-procedure internal-regulations manifesto code-of-conduct
 
 # Simple documents (no numbered sections, no TOC, no line numbering)
 SIMPLE_DOCS = minutes
