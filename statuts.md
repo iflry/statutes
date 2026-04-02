@@ -35,9 +35,9 @@ L'IFLRY est membre à part entière de l'Internationale libérale et bénéficie
 
 L'IFLRY fonctionne selon une structure fédérale et est principalement composée d'organisations membres. L'organe décisionnel suprême de l'association est l'**Assemblée générale** (voir [article](#ga)), composée de représentants de ses membres. L'Assemblée générale est chargée de définir l'orientation générale de l'association et d'adopter les décisions clés.
 
-La gestion journalière et la représentation externe sont assurées par un **Bureau** exécutif élu (voir [article](#bureau)), qui agit conformément aux Statuts et aux décisions de l'Assemblée générale.
+La direction générale et la représentation externe de l'association relèvent de la responsabilité du **Bureau** exécutif élu (voir [article](#bureau)), qui agit conformément aux Statuts et aux décisions de l'Assemblée générale.
 
-L'Assemblée générale et le Bureau sont les organes statutaires qui gouvernent conjointement l'association conformément au droit belge. L'association peut employer du personnel, désigné collectivement comme le **Secrétariat**, chargé des tâches administratives et opérationnelles. Le Secrétariat agit sous la direction du Bureau.
+L'Assemblée générale et le Bureau sont les organes statutaires qui gouvernent ensemble l'association conformément au droit belge. L'association peut employer du personnel, désigné comme le **Secrétariat**, chargé des tâches administratives et opérationnelles. Le Secrétariat est dirigé par le **Directeur exécutif**, nommé et révoqué par le Bureau. Le Bureau peut confier la gestion journalière de l'association aux membres du Bureau de gestion et au Directeur exécutif, chacun exerçant les pouvoirs de gestion journalière individuellement. Le Bureau peut également accorder au Directeur exécutif une autorité spécifique pour des actes récurrents, y compris la signature de contrats de travail et de conventions avec les autorités de subvention. Le Secrétariat agit sous la direction du Bureau.
 
 # Seuils de vote {#voting-methods}
 
