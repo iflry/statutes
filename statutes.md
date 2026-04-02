@@ -76,7 +76,9 @@ All members commit themselves to fulfilling both of the following membership obl
 (a) to adhere to the financial obligations as stated in the Membership Fee Statute. Organisations and individual members which have fulfilled these obligations are considered in good financial standing;
 (b) to uphold the values as stated in the Manifesto.
 
-## Membership Suspension, Termination and Modification 
+## Membership Withdrawal, Suspension and Termination
+Any member organisation, other than the Individual Members Group, may withdraw from the association at any time by written notice to the Bureau. Withdrawal takes effect upon receipt of that notice and does not release the member from obligations already due.
+
 Member organisations and individual members can be temporarily suspended, or have their membership terminated, for breaches of membership obligations as described in [article](#mem-obligations) or other severe reasons. The voting procedure used for suspending or expelling an organisation is the same as would be used for admitting any other organisation of an equivalent membership type.
 
 # Statutory Bodies

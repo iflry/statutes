@@ -120,10 +120,10 @@ An individual member who is not in good financial standing is automatically cons
 
 The members can leave the Federation on the following conditions:
 
-(a) The members of the Federation can resign by themselves.
+(a) Member organisations may withdraw from the association in accordance with the Statutes.
 (b) The members of the Federation can be expelled.
 
-A request for voluntary resignation by a member organisation needs to be filed with the Bureau through an official representative of the member organisation. The General Assembly validates this request before the member organisation is deregistered. In a case of the General Assembly not confirming the termination request, the membership will terminate at the end of the calendar year. A motion to expel a member can be submitted by the Bureau or two full members and needs to be submitted four weeks prior to the start of the General Assembly. Such a motion can be submitted if the targeted member organisation is suspected of breaching any of the membership obligations.
+A motion to expel a member can be submitted by the Bureau or two full members and needs to be submitted four weeks prior to the start of the General Assembly. Such a motion can be submitted if the targeted member organisation is suspected of breaching any of the membership obligations.
 
 Members need to be informed about this motion three weeks prior to the start of the statutory event. The Bureau is required to put forward a motion confirming the expulsion of any member which has retained candidate membership status for four years.
 
