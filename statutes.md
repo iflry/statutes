@@ -125,7 +125,7 @@ Every proposal that aims to dissolve the Federation must be put forward by the B
 
 The General Assembly will determine in which manner the Federation is dissolved and in which manner the dissolution is settled. 
 
-In case of dissolution, any remaining net assets of the AISBL shall be allocated to one or more non-profit legal persons pursuing a disinterested purpose similar to that of IFLRY, as designated by the General Assembly. Under no circumstances may the assets be returned to members or used for their benefit.
+In case of dissolution, any remaining net assets of the AISBL shall be allocated to one or more non-profit legal entities pursuing a disinterested purpose similar to that of IFLRY, as designated by the General Assembly. Under no circumstances may the assets be returned to members or used for their benefit.
 
 
 
