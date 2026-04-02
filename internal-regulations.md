@@ -133,8 +133,7 @@ The expulsion from the association is to be decided by a two-thirds majority of 
 
 ## Responsibilities 
 
-The Bureau members will be mutually responsible for all its activities. A bureau at all times includes a President, a Secretary General, and a Treasurer. All Bureau members each
-have a single vote and bureau decisions require a simple majority of votes.
+The Bureau members will be mutually responsible for all its activities. A bureau at all times includes a President, a Secretary General, and a Treasurer.
 
 ## President 
 
