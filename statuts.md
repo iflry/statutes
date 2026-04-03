@@ -81,8 +81,6 @@ Tous les membres ont le droit de participer à l'Assemblée générale et d'acc�
 
 Les Membres Effectifs ont le droit de vote à l'Assemblée générale, le droit de présenter des candidats, ainsi que le droit de soumettre et d'amender des propositions. Les Membres Associés et le Groupe des Membres Individuels ont le droit de vote et le droit de soumettre et d'amender des propositions, sous réserve des limitations prévues dans le Règlement d'ordre intérieur. Les Membres Régionaux ont le droit de soumettre des résolutions et des amendements. Les Membres Observateurs ont le droit d'observer les délibérations mais ne disposent pas du droit de vote.
 
-L'étendue détaillée des droits de chaque catégorie de membres est définie dans le Règlement d'ordre intérieur.
-
 ## Suspension, Exclusion et Modification de l'adhésion
 Les organisations membres et les membres individuels peuvent être temporairement suspendus ou voir leur adhésion résiliée en cas de violation des obligations des membres telles que décrites à l'[article](#mem-obligations) ou pour d'autres raisons graves. La procédure de vote utilisée pour suspendre ou exclure une organisation est la même que celle utilisée pour admettre toute autre organisation d'un type d'adhésion équivalent.
 

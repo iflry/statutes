@@ -81,8 +81,6 @@ All members have the right to attend the General Assembly and to access the minu
 
 Full Members have the right to vote at the General Assembly, to nominate candidates, and to put forward and amend proposals. Associate Members and the Individual Members Group have the right to vote and to put forward and amend proposals, subject to the limitations set out in the Rules of Procedure. Regional Members have the right to put forward resolutions and amendments. Observer Members have the right to observe proceedings but do not have voting rights.
 
-The detailed scope of each membership category's rights is set out in the Rules of Procedure.
-
 ## Membership Suspension, Termination and Modification
 Member organisations and individual members can be temporarily suspended, or have their membership terminated, for breaches of membership obligations as described in [article](#mem-obligations) or other severe reasons. The voting procedure used for suspending or expelling an organisation is the same as would be used for admitting any other organisation of an equivalent membership type.
 
