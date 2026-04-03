@@ -76,7 +76,12 @@ All members commit themselves to fulfilling both of the following membership obl
 (a) to adhere to the financial obligations as stated in the Membership Fee Statute. Organisations and individual members which have fulfilled these obligations are considered in good financial standing;
 (b) to uphold the values as stated in the Manifesto.
 
-## Membership Suspension, Termination and Modification 
+## Membership Rights {#mem-rights}
+All members have the right to attend the General Assembly and to access the minutes and annual accounts of the association.
+
+Full Members have the right to vote at the General Assembly, to nominate candidates, and to put forward and amend proposals. Associate Members and the Individual Members Group have the right to vote and to put forward and amend proposals, subject to the limitations set out in the Rules of Procedure. Regional Members have the right to put forward resolutions and amendments. Observer Members have the right to observe proceedings but do not have voting rights.
+
+## Membership Suspension, Termination and Modification
 Member organisations and individual members can be temporarily suspended, or have their membership terminated, for breaches of membership obligations as described in [article](#mem-obligations) or other severe reasons. The voting procedure used for suspending or expelling an organisation is the same as would be used for admitting any other organisation of an equivalent membership type.
 
 # Statutory Bodies
@@ -86,7 +91,7 @@ The General Assembly is the highest decision-making body of IFLRY and has full p
 
 The General Assembly shall meet at least once a year, at a date and place determined by the Bureau.
 
-Only full and Associate Member organisations in good financial standing shall be accorded voting rights. Voting rights in the General Assembly are to be distributed according to the membership type and size of the member organisation.
+Only Full Members, Associate Members and the Individual Members Group in good financial standing shall be accorded voting rights. The Individual Members Group is considered in good financial standing provided that at least one of its members is in good financial standing. Voting rights in the General Assembly are to be distributed according to the membership type and size of the member organisation.
 
 The General Assembly holds all powers expressly granted to it by Belgian law, including but not limited to:
 
