@@ -104,6 +104,8 @@ Une Assemblée générale extraordinaire peut être convoquée à la majorité s
 ### Généralités
 Le Bureau de l'IFLRY est composé d'un maximum de sept membres élus par l'Assemblée générale. Le **Bureau de gestion** est composé de trois membres : le **Président**, le **Secrétaire général** et le **Trésorier**, qui constituent l'organe d'administration conformément au droit belge. Le Bureau se compose du Bureau de gestion et d'un maximum de quatre **Vice-présidents**. Le Bureau de gestion est élu pour une durée de deux ans ; les Vice-présidents sont élus pour une durée d'un an. L'élection et les responsabilités du Bureau sont décrites plus en détail dans le Règlement d'ordre intérieur.
 
+Le Bureau est convoqué par le Président ou, en son absence, par le Secrétaire général. Le Bureau peut valablement délibérer lorsque la majorité de ses membres disposant du droit de vote est présente, que ce soit en personne ou par voie électronique. Les décisions sont prises à la majorité simple.
+
 Le Bureau est responsable de la gestion journalière de la Fédération et du contrôle de toutes ses ressources. Le Bureau doit rendre compte à l'Assemblée générale. Les organisations membres régionales peuvent désigner des représentants régionaux au Bureau. Ces représentants ne disposent pas de droit de vote au sein du Bureau.
 
 ### Suspension et Démission
