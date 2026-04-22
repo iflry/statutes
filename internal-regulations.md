@@ -378,7 +378,7 @@ Being an auditor is incompatible with:
 (c) Membership in the Committee of Discipline and Arbitration
 (d) Acting as a delegate of a (voting) member organisation
 
-## Ombudsperson
+### Ombudsperson
 
 Being an Ombudsperson is incompatible with:
 
