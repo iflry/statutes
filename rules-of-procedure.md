@@ -7,7 +7,7 @@ date: As adopted by the 56th General Assembly held in Lima, Peru, 17th-19th Octo
 
 The **General Assembly** (GA) is the highest decision-making body of the Federation. At the beginning of each General Assembly, the draft agenda will be decided on, the minutes of the previous meeting will be put forward for adoption and the relevant officers are proposed for appointment. This part is always chaired by the Bureau.
 
-The draft Agenda shall be made available for the membership at least four weeks prior to the General Assembly, by the Bureau or, in the case of an Extraordinary General Assembly, by those who call the meeting; for an Extraordinary General Assembly the Bureau shall circulate the draft to the membership.
+The draft Agenda shall be made available for the membership at least four weeks prior to the General Assembly, by the Bureau or, in the case of an Extraordinary General Assembly, by those who call the meeting. The Bureau shall circulate the draft to the membership.
 
 The Bureau must announce the date, time and location at least three months before an **in-person** General Assembly. An invitation for the General Assembly must be circulated eight weeks prior to the General Assembly to the members via e-mail. For an **online** General Assembly, the Bureau must announce the date, time and means of access and circulate an invitation at least six weeks before the General Assembly.
 
@@ -148,7 +148,7 @@ Each Bureau member’s discharge shall be voted on separately. The discharge vot
 ## Amendments {#amendments}
 Only proposals may be amended by the statutory event.
 
-Only amendments that are submitted 24 hours prior to the opening of the meeting, or before the Pre-Assembly meeting in case of amendments to resolutions, will be formally discussed, unless otherwise stated. 
+Only amendments that are submitted 24 hours prior to the opening of the meeting, or before the Pre-Assembly meeting in case of amendments to resolutions, will be formally discussed, unless otherwise stated.
 
 Secondary amendments can be dealt with on the spot, if the respective Standing Committee agrees by simple majority.
 
