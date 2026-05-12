@@ -192,9 +192,7 @@ The Standing Committee on Statutory Documents shall review any proposed amendmen
 
 # Pre-Assembly Committee
 
-A Pre-Assembly Committee shall convene online no earlier than two weeks prior to, and no later than the weekend immediately preceding, each ordinary General Assembly. It does not apply to an Extraordinary General Assembly.
-
-The Bureau must announce the date and time at least two months prior to the ordinary General Assembly.
+A Pre-Assembly Committee shall convene online no earlier than two weeks prior to, and no later than the weekend immediately preceding, each ordinary General Assembly. It does not apply to an Extraordinary General Assembly. The Bureau must announce the date and time at least two months prior to the General Assembly.
 
 The Pre-Assembly Committee shall review all amendments to the Manifesto, resolutions, and all amendments to those resolutions submitted for consideration at the upcoming General Assembly, facilitate discussion, and will issue non-binding recommendations to the General Assembly and its Standing Committees on all of the submitted amendments to the manifesto, resolutions and the amendments to those resolutions. 
 
