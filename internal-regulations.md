@@ -151,7 +151,7 @@ The Secretary General is responsible for:
 
 (a) Maintaining the membership administration;
 (b) Implementing information and archive policies, as well as managing related matters;
-(c) Preparing minutes of Bureau meetings and General Assemblies;
+(c) Preparing minutes of Bureau meetings, and coordinating the preparation of General Assembly minutes together with the appointed minute takers;
 (d) Communication with the member organisations;
 (e) Overseeing the Office;
 (f) The internal day-to-day;
