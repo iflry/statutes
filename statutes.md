@@ -35,9 +35,9 @@ IFLRY is a full member of the Liberal International and holds a special status a
 
 IFLRY operates on a federal structure and is primarily composed of member organisations. The highest decision-making body of the association is the **General Assembly** (see [article](#ga)), comprising representatives from its members. The General Assembly is responsible for setting the overall direction of the association and adopting key decisions.
 
-Daily management and external representation are handled by an elected executive **Bureau** (see [article](#bureau)), which operates in accordance with the Statutes and decisions of the General Assembly.
+The overall direction and external representation of the association are the responsibility of the elected executive **Bureau** (see [article](#bureau)), which operates in accordance with the Statutes and decisions of the General Assembly.
 
-The General Assembly and the Bureau are the statutory bodies that collectively govern the association in compliance with Belgian law. The association may employ staff, collectively referred to as the **Office**, to handle administrative and operational tasks. The Office operates under the direction of the Bureau.
+The General Assembly and the Bureau are the statutory bodies that together govern the association in compliance with Belgian law. The association may employ staff, known as the **Office**, to handle administrative and operational tasks. The Office is headed by the **Executive Director**, who is appointed and dismissed by the Bureau. The Bureau may entrust daily management of the association to the members of the Managing Bureau and the Executive Director, each exercising daily management powers individually. The Bureau may also grant the Executive Director specific authority for recurring acts, including the signing of employment contracts and agreements with grant authorities. The Office operates under the direction of the Bureau.
 
 # Voting Thresholds {#voting-methods}
 
