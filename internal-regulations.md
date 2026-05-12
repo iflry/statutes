@@ -102,8 +102,6 @@ To qualify for observer membership, an organisation must:
 (g) At least one event or activity organised by the applicant organisation must have been visited by a
 Bureau member or an appointee of the Bureau prior to their application being discussed;
 
-To qualify for regional membership, an organisation must comply with all points of [article](#full-membership).
-
 ### Individual Membership
 Everyone, aged between 18 and 35 years, who broadly agrees with the Manifesto and agrees with the aims of IFLRY, can become part of the Individual Members Group of IFLRY. An individual member cannot already be represented by an IFLRY Full or Associate Member Organisation.
 
