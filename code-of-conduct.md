@@ -1,94 +1,103 @@
 ---
 title: Code of Conduct of the International Federation of Liberal Youth
+date: As adopted by the Online Extraordinary General Assembly held on 2nd May 2026.
 ---
 
-# Purpose
-The International Federation of Liberal Youth (IFLRY) is committed to ensuring a safe, equitable, and inclusive environment and promoting equal and democratic engagement in all of IFLRY's entities and events. IFLRY is a democratic institution that values open and vigorous discussion of issues concerning the liberal movement. This code of conduct is not intended to restrict free and open debate, but rather is concerned with preventing unacceptable behaviour. For this reason, we do not allow any behaviour, whether offline or online, which can hinder full participation or harm anyone who works or participates in the organization with specific reference to discrimination, sexual or emotional harassment, bullying, prejudice, exclusion, or violence.
+This Code of Conduct applies to all IFLRY Bureau Members, officers, staff, trainers, programme managers, participants, delegates, and guests. It covers all IFLRY-related spaces and activities, both online and offline, including events, meetings, communication channels, and informal gatherings connected to IFLRY.
 
-# Applicability
-This Code of Conduct shall apply to everyone participating in any offline or online activity organized or sponsored by IFLRY. It shall also apply to the employees and representatives of the organization at IFLRY activities and in the workplace as well as when representing IFLRY externally.
+IFLRY is committed to maintaining open, inclusive, and safe environments where all participants can engage freely and respectfully.
 
-The Code of Conduct is not legal or prescriptive in nature. It supplements and does not affect the application of other relevant policies, regulations, rules, and laws, including laws regulating the premises in which the IFLRY event takes place and any applicable policies by other organizations. The code is a minimum standard and must therefore be followed, even if local legislation sets a lower standard.
+# 1. Contact Persons
+At IFLRY events and throughout the year, designated safe persons are available to provide support if something uncomfortable has occurred or if someone wishes to talk. The safe people are appointed by the Bureau from event to event to ensure that there is always someone to talk to. IFLRY's Ombudsperson is available year-round. The Ombudsperson can be contacted via email at Ombudsperson@iflry.org.
 
-# Expected Behaviour
-IFLRY expects everyone in the workplace and all participants in IFLRY affiliated activities, events, or meetings and the individuals representing IFLRY externally to conduct themselves in the following manner at all times:
+# 2. Conduct and Community Standards
+Participants are expected to act in good faith and with respect toward others. This includes engaging constructively in disagreement, taking responsibility for one's actions, and being mindful of how behaviour affects others. Diversity of background, experience, and perspective is a core strength of IFLRY and should be treated as such.
 
-(1) Act with integrity and high ethical standards.
-(2) Deal fairly with others and treat their views with respect.
-(3) Respect the individuality and personal values of individuals.
-(4) Recognize and value individual differences.
-(5) Avoid behaviour that reflects adversely on IFLRY.
-(6) Help maintain a harassment-free environment in IFLRYs meetings, events, and activities; report any suspected harassment, and help ensure non-retaliation to those individuals that report harassment.
+Respect for personal boundaries, bodily autonomy, property, and individual choices is essential. Political or personal differences do not justify creating hostile or unsafe environments. Discrimination of any kind, based on, but not limited to, ethnicity, religion, color, sex, age, nationality, citizenship, socioeconomic position, socioeconomic status, sexual orientation, disability, or gender identity, is prohibited. Financial requirements related to events and IFLRY membership are permitted, and do not constitute discrimination. Furthermore, property damage is not tolerated and the person doing it is financially responsible for the damage done.
 
-# Prohibited Conduct
-Any kind of discrimination, violence or threatening behaviour, bullying, degradation, harassment, as well as verbal or nonverbal, physical or non-physical humiliation, and intimidation is prohibited. Any behaviour that disrupts the activity of the event or damages the facilities in which the event is taking place is also prohibited. Prohibited conduct includes, but is not limited to, the following:
+# 3. Consent and Personal Boundaries
+While we meet in IFLRY as colleagues, personal relationships do develop. There are, however, rules for the sexual conduct permitted at IFLRY's events. Consent is central to safe interaction within IFLRY. Consent must be voluntary, informed, and clearly communicated, assessed within the context of surrounding circumstances, and may be withdrawn at any time. Any sexual conduct which happens must not disturb other participants of the event.
 
-## Discrimination
-It is discrimination to make any decision or judgment based on another person’s race, ethnicity, religion, color, sex, age, national origin, sexual orientation, disability, gender identity or expression, ancestry, or pregnancy.
+Participants are expected to act with care in personal and intimate interactions and to prioritise clarity, mutual comfort, and respect. Discomfort expressed by any participant must be taken seriously.
 
-Setting age-limits shall not be prohibited in IFLRY if it is done for compelling reasons such as insurance policies or liability. Neither is conducting events, when justifiable, that are limited to participants with a protected characteristic (e.g. a female leadership programme targeting individuals whom identify as female).
+# 4. Power Dynamics and Responsibility
+Power dynamics may arise through roles, experience, visibility, or structural privilege. People in positions of responsibility or influence, including those representing their Member Organisations or IFLRY, are expected to act accordingly to their responsibility. Their position must not be abused to create pressure, dependency, or personal advantage in any interaction. Attention to how authority affects others is essential to maintaining trust and safety.
 
-## Harassment
-Any kind of harassment is prohibited behaviour. Harassment is unwanted behaviour which you find offensive or which makes you feel intimidated or humiliated. You do not need to have previously objected to something for it to be unwanted. It can happen on its own or alongside forms of discrimination. Unwanted behaviour could be, but is not limited to:
+# 5. Alcohol, Substances, and Autonomy
+Alcohol consumption may be permitted at IFLRY events in accordance with local law. Participation in drinking or substance use must always be voluntary. No participant should be pressured into consumption, and those who do consume are expected to remain in control of their actions and respectful of others.
 
- - Unpleasant spoken or written words.
- - Offensive emails,tweets orcomments on social networking sites.
- - Unwanted photography or recording.
- - Degrading physical gestures.
- - Humiliating facial expressions.
- - Degrading jokes.
- - Bullying or stalking.
- - Real or implied threat of physical harm.
- - Physical assault.
+# 6. Transparency and Governance
+IFLRY representatives must act with integrity, avoid conflicts of interest, and disclose any financial interests relevant to decision-making. Representatives must not vote on decisions they have a financial connection to, unless it is related directly to their role as IFLRY bureau members, IFLRY event organizers, or external event participants on behalf of IFLRY. They should disclose all connections internal and external in writing to the General Assembly on an ongoing basis. Abuse of position, favouritism, or conduct that harms IFLRY's reputation is not acceptable.
 
-## Sexual Harassment
-Sexual harassment can involve unwelcome sexual advances, requests for sexual favors, and other verbal, visual, or physical conduct of a sexual nature. It can involve conduct by a person of any gender toward a person of the same or different gender. Examples of sexual harassment include, but are not limited to:
+# 7. Safeguarding and Reporting
+IFLRY maintains safeguarding structures to support participants and address concerns. Designated Safepersons and/or the Ombudsperson are available at events and throughout the year. Reports may be made by affected persons or witnesses and are handled confidentially. Retaliation is strictly prohibited.
 
-- Inappropriate use of nudity and/or sexual images
-- Uninvited sexual attention or contact.
-- Making derogatory or demeaning comments about someone’s sexual orientation or
-gender identity.
-- Name-calling or using slurs with a gender/sexual connotation.
-- Making sexual comments about appearance,clothing or bodyparts.
-- Rating a person’s sexuality or looks
-- Repeatedly asking a person for dates or asking for sex.
-- Unwelcome touching, including pinching, patting,rubbing or purposefully brushing up against a person.
-- Making inappropriate sexual gestures.
-- Sharing sexual or lewd anecdotes or jokes.
-- Sending sexually suggestive communications in any format.
-- Sharing or displaying sexually inappropriate images or videos in any format.
-- Attempted or actual sexual assault, including rape.
+Complaints are assessed and resolved by the Ombudsperson and the Committee of Discipline and Arbitration through fair and proportionate procedures.
 
-# Complaint Process
-Any general complaints should be directed to the organizational ombudsman. Complaints can also be sent to any member of the IFLRY managing bureau or the head of the IFLRY office, who should involve the ombudsperson in the procedure if possible.2 The procedure of handling general complaints is outlined in the ombudsperson policy.
+# 8. Commitment
+By participating in IFLRY activities, individuals agree to uphold this Code of Conduct and contribute to a safe, respectful, and inclusive community. Acknowledgement of this Code is required as part of registration.
 
-Prior to the start of any large IFLRY activity, event or meeting, attendees will be informed of this code of conduct and a IFLRY representative, to whom complaints may also be directed to during the specific activity, will be identified for all attendees. The designated person should be the elected organizational ombudsman if present at the event, activity or meeting. If the ombudsman is not present, the task should be assigned to an member of the IFLRY bureau that is present at the event or someone from the IFLRY staff who is present. If this is not possible then the designated person can be assigned amongst the organizing or facilitating team of the activity. It is the responsibility of the organizing and facilitating team to ensure that all the participants are aware of who the designated person is at all events, meetings or activities. If you are subject to what you believe is unacceptable behaviour under this code of conduct or witness such behaviour at an activity, please inform the designated IFLRY representative immediately. If that person is not available, you may inform any other IFLRY staff person, leader, organizer or facilitator present, who will work with the designated person to respond to the complaint.
+This document shall be revisited every year by the bureau and every two years by the General Assembly.
 
-# Procedure
-When an complaint of misconduct is made at a IFLRY activity, event or meeting, at least one IFLRY representative has to, to the best of their abilities and depending on the severity of the situation, take the following measures:
+# Procedure for Breach of the Code of Conduct
 
-(1) Hold separate conversations with the person who filed the complaint, victim (if different from the complainant), and the perpetrator to clarify what has happened.
-(2) When it is clear that a breach of the code of conduct has occurred, a serious conversation with the perpetrator or perpetrators has to be had. During the conversation, the following must be explained:
-a. Behaviour exhibited by the perpetrator is completely unacceptable and is contrary to the fundamental values of IFLRY.
-b. The behaviour must not be repeated.
-(3) If the behaviour still does not end or if the initial breach of the code of conduct was
-very severe, the perpetrator or perpetrators can be suspended from the remainder of
-the activity.
-(4) The person who submitted the complaint must be contacted for a follow-up at least
-once after the procedure and measures have been taken.
+## 1. Purpose
+This procedure sets out how potential breaches of the IFLRY Code of Conduct are reported, assessed, and addressed. Its purpose is to ensure safety, fairness, confidentiality, and proportional responses, while maintaining trust within the organisation.
 
-If needed or requested, IFLRY will help complainants contact security or local law enforcement, provide escorts, or otherwise assist complainants experiencing unacceptable behaviour to feel safe for the duration of the activity, event, or meeting. IFLRY will take all appropriate steps to ensure that the complainant is no longer subject to the unacceptable behaviour.
+## 2. Reporting a Concern
+A concern may be raised by any participant, delegate, staff member, officer, trainer, Bureau member, or guest within IFLRY's scope. Witnesses may also report concerns.
 
-The IFLRY managing bureau is defined as the president, secretary general and treasurer. The head of the IFLRY office is the executive director.
+Reports should be made to the ombudsperson. If a safe person or a bureau member gets a report they should either help guide the person towards the ombudsperson to make a proper report or in accordance with the affected person make the report on their behalf.
 
-# Consequences
-IFLRY takes complaints seriously and may, at its discretion, take other actions that it deems appropriate upon assessing the situation.
-IFLRY reserves the right of suspending or terminating the perpetrator’s access to an IFLRY event or refusing registration at future IFLRY events or both. When exercising this right any participation fees are still owed in full by the perpetrator. IFLRY also has the right to demand the non-subsidized sum for participation and IFLRY is not liable for any financial loss that the perpetrator may face due to the suspension or termination of access. A perpetrator that caused IFLRY financial loss (through eg. damaging the facilities in which an event takes place) is fully financially liable for the damage that has been done.
+Reports may be made during or after an event. Confidentiality will be respected, and retaliation against anyone raising a concern is prohibited.
 
-If there is an allegation of criminal wrongdoing, we will strongly advise the complainant to report this to the relevant authority as soon as practicable. In certain instances, we may have a duty to contact the relevant authority directly. IFLRY reserves the right to refer any breach of this code of conduct which breaks the criminal law to the police rather than/as well as dealing with it under this code of conduct.
+## 3. Initial Assessment and Safety Measures
+Upon receiving a report, the Ombudsperson will:
 
-# Prohibition of Retaliation
-IFLRY will not tolerate retaliation against any individual who complains of unacceptable behaviour or provided information in support of a complaint under this code of conduct. It will take every step necessary and appropriate to ensure that retaliation does not occur, and if it is belived that retaliation has occurred, IFLRY will take immediate action to stop the retaliation.
+- Confirm receipt of the report
+- Assess whether the matter falls under the Code of Conduct
+- Determine whether immediate safety or interim measures are required
 
-# Confidentiality
-IFLRY representatives that are involved in handling a complaint may only disclose any information from the complainant or other involved parties to other people to the extent that it is needed in order to properly handle the situation. The complainant and the persons in question should preferably be consulted before such sharing of information is done. However, disclosing the identity of the complainant and/or victim of prohibited behaviour is only allowed with consent. Confidentiality may be breached only due to serious concerns of safety of individuals or if it is neccessary due to legal proceedings.
+Interim measures may include temporary separation of parties, no-contact arrangements, removal from activities, or suspension from duties. These measures are precautionary and do not imply a finding of misconduct. If immediate safety measures are required during an event, the ombudsperson will communicate those measures to the safe person at the given event, who will implement those measures at the event and make all involved parties aware.
+
+In extreme cases, the event safe person may enforce and determine immediate safety measures after attempting to communicate the report to the Ombudsperson. In this case, the safe person will provide a written explanation to the Ombudsperson and document attempted communication. This explanation must be included in the Ombudsperson annual report, redacting names where needed.
+
+## 4. Review and Investigation
+If further review is required, the Ombudsperson will conduct an investigation. This shall include:
+
+- Speaking with the reporting person
+- Speaking with the person whose conduct is reported
+- Contacting relevant witnesses
+- Reviewing any available documentation or evidence
+
+All parties will be given an opportunity to be heard. Conflicts of interest must be declared, and any involved person must recuse themselves where appropriate. In the circumstance that the safety of any individual could be compromised, the Ombudsperson can diverge from this process, their reasoning for any such divergence should be reported.
+
+## 5. Determination and Outcome
+Following the investigation, the Ombudsperson will submit a factual report to the Committee of Discipline and Arbitration (CDA).
+
+The CDA will determine:
+
+- Whether the Code of Conduct was breached
+- The appropriate response, based on severity, impact, and context
+
+Possible outcomes include:
+
+- No further action
+- An apology is made
+- Informal resolution or mediation
+- A formal warning or reprimand
+- Restrictions on participation or responsibilities
+- Temporary suspension
+- Recommending removal from position to the general assembly or the bureau depending on the role
+- Exclusion from IFLRY activities
+
+Outcomes will be proportionate and aimed at restoring safety and trust.
+
+## 6. Communication
+The outcome will be communicated in writing to the relevant parties. All personal identifying information of complaints, witnesses, and respondents shall be anonymised, unless the party concerned has given explicit written consent to identification, or identification is required in accordance with Article 12 (Data Protection) of the Internal Regulations. The results and recommendations should be reported in writing to the bureau, omitting members only in the circumstance of a conflict of interests. The office shall get a copy of the full report for safe keeping; the bureau shall only receive a report with the necessary information needed for enforcing outcomes.
+
+## 7. Appeals
+Decisions of the CDA may be appealed to the Advisory Council (AC) and if deemed appropriate taken up for reinvestigation.
+
+## 8. Record-Keeping and Transparency
+The office will maintain confidential records of cases for institutional continuity. The ombudsperson is expected to have a report for the member organisations during the general assemblies without revealing any names or sensitive information.
