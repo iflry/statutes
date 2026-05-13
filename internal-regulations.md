@@ -294,7 +294,7 @@ The ombudsperson shall monitor any cases of disagreement or conflict, ill-treatm
 The Ombudsperson shall serve as guardian to protect the interests of the Federation and all its associated individuals within the day-to-day proceedings of the Bureau, Office, and 
 Auditors (as well as non-statutory bodies, such as Programme Managers) and to serve as an independent body of negotiation and mediation.
 
-The Ombudsperson shall produce an annual report presented at the General Assembly. It is the responsibility of the Ombudsperson to make their annual report available once a year to the member organisations two weeks before the General Assembly takes place.
+The Ombudsperson shall produce an annual report presented at the General Assembly. It is the responsibility of the Ombudsperson to make their annual report available once a year to the member organisations two weeks before the General Assembly takes place. If there is no Ombudsperson when an annual report is expected, the Committee of Discipline and Arbitration shall produce and submit the annual report instead.
 
 The Ombudsperson shall be nominated by the Committee of Discipline and Arbitration.
 
@@ -322,7 +322,7 @@ The committee may impose sanctions other than expulsion at its own initiative on
 
 ## Internal Procedure
 
-The chairperson of the committee shall be elected by its members. The committee will decide its own rules of procedure. The committee shall present their rules of procedure to the General Assembly for approval. In the event of a committee member violating the Code of Conduct themselves, it is the duty of the Ombudsperson to investigate this issue. If necessary the Ombudsperson may propose to the Bureau and Advisory Council that the committee member be suspended.
+The chairperson of the committee shall be elected by its members. The committee will decide its own rules of procedure. The committee shall present its rules of procedure to the General Assembly and note changes on an ongoing basis. In the event of a committee member violating the Code of Conduct themselves, it is the duty of the Ombudsperson to investigate this issue. If necessary the Ombudsperson may propose to the Bureau and Advisory Council that the committee member be suspended.
 
 This suspension must be passed by a two-thirds majority on both bodies. A suspension removes a committee member from their position up to and including the next General Assembly.
 
