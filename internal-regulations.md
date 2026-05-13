@@ -1,6 +1,6 @@
 ---
 title: Internal Regulations of the International Federation of Liberal Youth
-date: As adopted by the 56th General Assembly held in Lima, Peru, 17th-19th October 2025.
+date: As adopted by the Online Extraordinary General Assembly held on 2nd May 2026.
 ---
 
 # Membership
