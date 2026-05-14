@@ -1,6 +1,6 @@
 ---
 title: Rules of Procedure of the International Federation of Liberal Youth
-date: As adopted by the 55th General Assembly held in Sarajevo, Bosnia and Herzegovina, 1st-4th May 2025
+date: As adopted by the 56th General Assembly held in Lima, Peru, 17th-19th October 2025.
 ---
 
 # General Assembly {#ga}
@@ -22,9 +22,9 @@ The General Assembly should use the official languages of the Federation. In the
 
 Voting rights to a General Assembly are stipulated under [article](#ga-voting). Full members have the right to vote, the right to nominate candidates, the right to put forward proposals and the right to submit amendments to all proposals.
 
-Associate members have the right to vote, nominate officers, the right to put forward proposals and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations or financial documents.
+Associate members have the right to vote, nominate officers, the right to put forward proposals and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations, Code of Conduct or financial documents.
 
-Regional members have the right to put forward resolutions and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations or financial documents.
+Regional members have the right to put forward resolutions and the right to submit amendments to all proposals except when it concerns the Manifesto, Statutes, the Rules of Procedure, Internal Regulations, Code of Conduct or financial documents.
 
 Observer members have the right to observe, co-sign political proposals and their amendments and contribute to discussions on political proposals, but no right to vote, nominate candidates or put forward organisational proposals. Observer members are treated as non-
 voting members and therefore only have the right to observe the proceedings of the Federation and its General Assembly.
@@ -94,12 +94,10 @@ In elections where multiple rounds of voting are required, successive rounds sha
 The incoming Bureau members shall be installed in their roles at the close of the GA.
 
 ## President, Secretary General and Treasurer Elections {#mb-elections}
-The President, the Secretary General and the Treasurer shall be elected by simple majority vote. In the event none of the candidates to each of these positions receives more than 50% of the votes, there will be additional rounds of voting until the required majority is achieved
-
-In each of the additional rounds, candidates with the lowest number of votes will be eliminated if they cannot mathematically win even if all votes from candidates with fewer votes were added to their total.
+The President, the Secretary General and the Treasurer shall be elected using instant runoff voting (IRV) with ballots for each position giving a ranked preference of candidates and an option *Reopen Nominations*. If the option *Reopen Nominations* wins, nominations for the position will be reopened, with any Full Member organisation entitled to nominate a candidate immediately. In this case, previous candidates may also be re-nominated, and the new vote will again be conducted using instant runoff voting with no option to reopen nominations. The term of office for the affected position shall be until the next General Assembly. At the next General Assembly, an election shall be held to fill this position for the remainder of the mandate following the same procedure as for the original vote.
 
 ## Vice President Elections {#vp-elections}
-The Vice Presidents of the organisation shall be elected using the single transferable vote system (STV), in a way that safeguards the anonymity of votes.
+The Vice Presidents shall be elected at-large by STV (Meek method), with ballot secrecy safeguarded. A concise round-by-round summary shall be published by the Returning Officers after the count.
 
 ## Auditor Elections {#auditor-elections}
 For the election of auditors, the ballot can be filled with one or two names. Each name will count as one vote. It is not possible to give more than one vote to one candidate on each ballot. The two candidates who received the highest number of votes shall be elected auditors. In case of resignation of an auditor, the next person on the last auditor election results list sorted on highest number of votes will replace the vacancy.
@@ -117,12 +115,12 @@ Following the expulsion of an elected person it is the right of the General Asse
 The agenda of the statutory event may include proposals and reports. The agenda will be proposed to the membership four weeks before the General Assembly.
 
 ## Organisational Proposals {#organisational-proposals}
-Items which propose a change from the status quo. This can include, but is not limited to, organisational motions, the budget proposal, and amendments to the statutory documents. The deadline for submitting organisational proposals is four weeks before the Statutory Meeting or one week after the announcement of an Extraordinary General Assembly, whichever gives the member organisations more time.
+Items which propose a change from the status quo. This can include, but is not limited to, organisational motions, the budget proposal, and amendments to the statutory documents and code of conduct. The deadline for submitting organisational proposals is four weeks before the Statutory Meeting or one week after the announcement of an Extraordinary General Assembly, whichever gives the member organisations more time.
 
 ## Political Proposals {#political-proposals}
-Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is two weeks before the General Assembly, and shall be made available to the member organisations no later than one week before the General Assembly.
+Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is three weeks before the General Assembly, and shall be made available to the member organisations no later than 48 hours after the deadline.
 
-Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organisations no later than one week before the General Assembly.
+Manifesto proposals must be submitted four weeks before the General Assembly, and shall be made available to the member organisations no later than three weeks before the General Assembly.
 
 At the opening of the General Assembly, while adopting the agenda, the membership will vote on the prioritisation of the political proposals that have been submitted. Resolutions will be discussed following the list based on the number of votes, from highest number of votes, to lowest number of votes last.
 
@@ -130,12 +128,23 @@ At the opening of the General Assembly, while adopting the agenda, the membershi
 Those resolutions shall be dealt with, which, in the opinion of the General Assembly, could not have been proposed before the official deadline due to their urgent nature. Such resolutions should be submitted to the IFLRY Office before the beginning of the General Assembly, unless a two-thirds majority of those present and voting accept a later resolution as urgent.
 
 ## Reports {#reports}
-Items which report on the status quo. This includes Bureau reports, annual reports, financial reports and auditor reports. The deadline for submitting reports is two weeks before the Statutory Meeting.
+Items which report on the status quo. This includes financial reports, advisory council and auditor reports. The deadline for submitting reports is two weeks before the Statutory Meeting. The Bureau report and Annual report need to be submitted four weeks before the statutory meeting.
+
+## Discharge {#discharge}
+Discharge is the formal release of an individual Bureau member from their official responsibilities and obligations upon the conclusion of their term of office or resignation. It represents the General Assembly’s recognition that the Bureau member has fulfilled their duties and is no longer accountable for them.
+
+Discharge shall only be granted after all outstanding responsibilities have been fulfilled. This includes the completion of a proper handover as specified in the Internal Regulations, and for the Treasurer, the fulfillment of all financial obligations.
+
+If responsibilities have not been fulfilled, the General Assembly may either:
+(a) postpone discharge until the responsibilities are met, or
+(b) grant a dishonourable discharge.
+
+Each Bureau member’s discharge shall be voted on separately. The discharge vote is a standing agenda item at every General Assembly following the Bureau transition. This item shall remain on the agenda until the Bureau member concerned has been granted discharge. The vote on discharge shall always take place after the relevant reports have been presented and discussed.
 
 ## Amendments {#amendments}
 Only proposals may be amended by the statutory event.
 
-Only amendments that are submitted 24 hours prior to the opening of the meeting will be formally discussed, unless otherwise stated.
+Only amendments that are submitted 24 hours prior to the opening of the meeting, or before the Pre-Assembly meeting in case of amendments to resolutions, will be formally discussed, unless otherwise stated.
 
 Secondary amendments can be dealt with on the spot, if the respective Standing Committee agrees by simple majority.
 
@@ -156,6 +165,8 @@ GA.
 
 The Membership Fee Statute for each upcoming year shall be proposed by the Bureau and disseminated among the member organisations four weeks prior to the General Assembly.It shall include the calculation method for the membership fees, rules regarding reduced membership fee applications and other membership fee related issues.
 
+The internal discussion on financial applications is dealt with in closed session. Participants from the General Assembly who represent the member organization being discussed, have to leave the room.
+
 ## Standing Committee on Membership 
 The Standing Committee on Membership shall deal with the relevant membership issues prior to their consideration by the GA. This may be membership applications, membership suspensions, membership expulsion, or other relevant issues.
 
@@ -173,7 +184,25 @@ In voting on amendments, the chair shall normally first hold a vote on the amend
 The proposer of a resolution may withdraw the resolution at any time before the vote takes place.
 
 ## Standing Committee on Statutory Documents 
-The Standing Committee on Statutory Documents shall review any proposed amendments to the Statutes, Rules of Procedure, and Internal Regulations prior to their consideration by the GA. In addition, the Committee on Rules shall propose additional rules as necessary covering each GA which shall be adopted immediately following the determination of a quorum at each GA.
+The Standing Committee on Statutory Documents shall review any proposed amendments to the Statutes, Rules of Procedure, Internal Regulations, Code of Conduct prior to their consideration by the GA. In addition, the Committee on Rules shall propose additional rules as necessary covering each GA which shall be adopted immediately following the determination of a quorum at each GA.
+
+# Pre-Assembly Committee
+
+A Pre-Assembly Committee shall convene online no earlier than two weeks prior to, and no later than the weekend immediately preceding, each General Assembly. The Bureau must announce the date and time at least two months prior to the General Assembly.
+
+The Pre-Assembly Committee shall review all amendments to the Manifesto, resolutions, and all amendments to those resolutions submitted for consideration at the upcoming General Assembly, facilitate discussion, and will issue non-binding recommendations to the General Assembly and its Standing Committees on all of the submitted amendments to the manifesto, resolutions and the amendments to those resolutions. 
+
+Additionally, it may submit amendments to the resolutions and amendments, both the manifesto and to the submitted resolutions, it considers, or allow Member organisations to do so with a deadline of 24 hours until the start of the General Assembly.
+
+The Committee may, to adequately deal with the workload, be divided into a number of subcommittees that shall convene simultaniously. The amount of subcommittees shall, unless otherwise communicated by the Bureau, be two, and shall not exceed three.
+
+The Pre-Assembly Committee shall be composed of representatives from delegates to the upcoming General Assembly, a Pre-Assembly Committee Chairs and Minute Takers, both matching the amount of subcommittees, approved after nomination from the bureau , or should that candidate not be approve, elected from its midst after nomination from the floor.
+
+In the Pre-Assembly Committee, the full and associate member organisations have one vote each, and only one delegate per member organisation may contribute to the discussion and vote of the Pre-Assembly Committee and each subcommittee. 
+
+The Minute Takers shall record the outcome of votes at the Pre-Assembly Committee, as well as any amendments submitted during the discussion at the Pre-Assembly Committee, or the issues on which the Pre-Assembly Committee authorised MOs to submit amendments after the Pre-Assembly Committee. These minutes will be published no later than a day after the Pre-Assembly Committee.
+
+No roll call or quorum is required for the Pre-Assembly Committee.
 
 # Standing Orders {#standing-oreders}
 
@@ -212,7 +241,7 @@ Should any of these motions passed during a Standing Committee have an effect ex
 Assembly.
 
 # Minutes
-The decisions of the General Assembly shall be entered in the minutes and will be made available to the members no later than 30 days following the adjournment of the General Assembly and shall be signed by one of the auditors. This falls under the responsibility of the two auditors.
+The decisions of the General Assembly shall be entered in the minutes and will be made available to the members no later than 30 days following the adjournment of the General Assembly and shall be signed by one of the auditors. This falls under the responsibility of the two auditors. Any new statutory documents adopted by the General Assembly shall be published together with the minutes.
 
 In the case of an Extraordinary General Assembly, no decisions on items not mentioned on the agenda can be taken.
 

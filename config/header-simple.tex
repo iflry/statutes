@@ -1,0 +1,93 @@
+% Font settings
+\usepackage[fira]{fontsetup}
+
+% Lists
+\usepackage{enumitem}
+
+% Title settings
+\usepackage{titlesec}
+
+\let\titleoriginal\title
+\renewcommand{\title}[1]{
+    \titleoriginal{#1}%
+    \newcommand{\headertitle}{#1}
+}
+
+% Page layout settings
+\usepackage[a4paper, margin=1in, top=1.2in, bottom=1.2in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textit{\headertitle}}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Paragraph settings
+\usepackage{parskip}
+\setlength{\parskip}{1.2em}
+\setlength{\parindent}{0em}
+
+% Section and subsection formatting
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}
+\titleformat{\section}{\normalfont\scshape\Large}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalfont\scshape\large}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalfont\itshape}{\thesubsubsection}{1em}{}
+
+% Line spacing
+\usepackage{setspace}
+\onehalfspacing
+
+% Justify text
+\usepackage{ragged2e}
+\justifying
+
+% Legal numbering and indentation for lists
+\setlist[itemize,1]{label=$\bullet$, left=0em}
+\setlist[enumerate,1]{label=\arabic*., left=0em, itemsep=0.5em}
+
+% Hyperlinks settings
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=black,
+    urlcolor=blue,
+    pdfauthor={International Federation of Liberal Youth},
+}
+
+\usepackage{nameref}
+\usepackage{ifthen}
+\usepackage{xcolor}
+
+% Restyle blockquotes
+\usepackage{tcolorbox}
+\definecolor{examplebg}{HTML}{F5F5F5}
+\definecolor{examplebar}{HTML}{4A7DAF}
+\renewenvironment{quote}{%
+  \begin{tcolorbox}[
+    colback=examplebg,
+    colframe=examplebar,
+    leftrule=3pt,
+    rightrule=0pt,
+    toprule=0pt,
+    bottomrule=0pt,
+    arc=0pt,
+    boxsep=4pt,
+    left=8pt,
+    right=8pt,
+    top=4pt,
+    bottom=4pt
+  ]
+  \small\itshape
+  \setlength{\parskip}{0.6em}
+  \setlength{\parindent}{0pt}
+}{%
+  \end{tcolorbox}
+}
+
+\AtBeginDocument{
+    \maketitle
+}

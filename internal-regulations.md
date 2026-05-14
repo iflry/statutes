@@ -1,6 +1,6 @@
 ---
 title: Internal Regulations of the International Federation of Liberal Youth
-date: As adopted by the 55th General Assembly held in Sarajevo, Bosnia and Herzegovina, 1st-4th May 2025
+date: As adopted by the Online Extraordinary General Assembly held on 2nd May 2026.
 ---
 
 # Membership
@@ -36,7 +36,11 @@ International Federation of Liberal Youth in one of IFLRY’s official languages
 The application for associate membership must include all points of [article](#full-app).
 
 ### Observer Membership
-The application for observer membership must include points (a) and (b) of [article](#full-app).
+The application for observer membership must include the following information:
+
+(a) A completed membership application form (provided by the Bureau) containing general information required for the Membership Register;
+(b) Copies of its Statutes/Constitution, and copies of its Policy Programme/Ideological standpoint in at least one of IFLRY’s official languages and in its original form if that is not in Statutes of the
+International Federation of Liberal Youth in one of IFLRY’s official languages;
 
 ### Regional Membership
 The application for regional membership must include all points of [article](#full-app).
@@ -57,7 +61,7 @@ party, or foundation, and what form that link takes.
 To qualify for full membership, an organisation must:
 
 (a) The organisation is a national youth organisation, or a sub-national youth organisation that is not part of a national organisation;
-(b) The organisation is not a member of any other pan-international political organisation that is not based on the ideas of the Manifesto;
+(b) The organisation is not a member of any other pan-international political organisation that is based on ideas contrary to the ideas of the Manifesto;
 (c) It must be run by and for young people;
 (d) It must be democratically organised;
 (e) It must be in agreement with the aims of IFLRY;
@@ -68,18 +72,38 @@ Bureau member or an appointee of the Bureau prior to their application being dis
 (i) It must have been represented at a minimum of one General Assembly, which must be additional to those meetings where the Associate Membership application was accepted.
 
 ### Associate membership
-To qualify for associate membership, an organisation must comply with points (a) through (g) of [article](#full-membership).
+To qualify for associate membership, an organisation must:
+
+(a) The organisation is a national youth organisation, or a sub-national youth organisation that is not part of a national organisation;
+(b) The organisation is not a member of any other pan-international political organisation that is based on ideas contrary to the ideas of the Manifesto;
+(c) It must be run by and for young people;
+(d) It must be democratically organised;
+(e) It must be in agreement with the aims of IFLRY;
+(f) It must have attended at least one IFLRY event prior to making the application; for purpose of defining such an event, a seminar linked to a General Assembly is to be considered the same event; therefore, the application cannot be made at that General Assembly;
+(g) At least one event or activity organised by the applicant organisation must have been visited by a
+Bureau member or an appointee of the Bureau prior to their application being discussed;
 
 ### Observer membership
-To qualify for observer membership, an organisation must comply with points (a), (b), (d), and (f) of [article](#full-membership), and:
+To qualify for observer membership, an organisation must:
 
-(j) Be run for young people.
+(a) The organisation is a national youth organisation, or a sub-national youth organisation that is not part of a national organisation;
+(b) The organisation is not a member of any other pan-international political organisation that is based on ideas contrary to the ideas of the Manifesto;
+(c) It must be democratically organised;
+(d) It must have attended at least one IFLRY event prior to making the application; for purpose of defining such an event, a seminar linked to a General Assembly is to be considered the same event; therefore, the application cannot be made at that General Assembly;
+(e) Be run for young people.
 
 ### Regional membership
-To qualify for regional membership, an organisation must comply with all points of [article](#full-membership).
+(a) The organisation is a supranational youth organisation;
+(b) The organisation is not a member of any other pan-international political organisation that is based on ideas contrary to the ideas of the Manifesto;
+(c) It must be run by and for young people;
+(d) It must be democratically organised;
+(e) It must be in agreement with the aims of IFLRY;
+(f) The applicant must be constituted as an independent organisation in its own right, with membership composed of national and sub-national youth organizations rather than individuals.
+(g) At least one event or activity organised by the applicant organisation must have been visited by a
+Bureau member or an appointee of the Bureau prior to their application being discussed;
 
 ### Individual Membership
-Everyone, aged between 18 and 35 years, who broadly agrees with the Manifesto and agrees with the aims of IFLRY, can become part of the Individual Members Group of IFLRY. An individual member cannot be directly or indirectly linked to or dependent on any IFLRY Full or Associate Member Organisation.
+Everyone, aged between 18 and 35 years, who broadly agrees with the Manifesto and agrees with the aims of IFLRY, can become part of the Individual Members Group of IFLRY. An individual member cannot already be represented by an IFLRY Full or Associate Member Organisation.
 
 ## Suspension 
 
@@ -101,7 +125,7 @@ A request for voluntary resignation by a member organisation needs to be filed w
 
 Members need to be informed about this motion three weeks prior to the start of the statutory event. The Bureau is required to put forward a motion confirming the expulsion of any member which has retained candidate membership status for four years.
 
-The expulsion from the association is to be decided by a two-thirds majority of those present and voting at the General Assembly. Members that are no longer part of the association have no rights to the financial assets. An individual member can terminate their membership by simple declaration to the Office or Individual Members Group Chair.
+The expulsion from the association is to be decided by a two-thirds majority of those present and voting at the General Assembly. Members that are no longer part of the association have no rights to the financial assets. An individual member can terminate their membership by simple written declaration to the Office or Individual Members Group Chair.
 
 # Bureau {#bureau}
 
@@ -177,13 +201,25 @@ The Bureau will have to submit for adoption once a year an Annual Report at leas
 
 If there is more than one statutory meeting every year, the Bureau will present an interim report to show what the current status of the realisation of the Action Plan is.
 
-### Bureau Reports  {#breports}
+### Bureau Report  {#breports}
 
 The Bureau is required to submit a written report to the member organisations on its activities four weeks before the start of the General Assembly. This report will reflect the work carried out by each individual Bureau member and will be presented at the General Assembly.
 
 ### Financial Report
 
 The Treasurer is required to submit an annual financial report to a General Assembly at the first GA in the second half of the financial year, and interim financial reports for every other General Assembly. The financial reports must include a list of organisations in good standing with the Federation, and the date on which every member organisation in good standing fulfilled an annual membership fee obligation used to determine good standing. The financial report must also include the current balance of all bank accounts.
+
+### Handover
+
+All Bureau members are obligated to conduct a proper handover of their portfolio to their successors or to the remaining Bureau members upon the conclusion of their term or in the event of resignation. This handover must include:
+
+(a) A comprehensive transfer of all relevant documents, files, and digital access credentials;
+(b) A detailed summary of ongoing projects, commitments, and pending matters;
+(c) An overview of key contacts, relationships, and communication channels;
+(d) A briefing on any unresolved issues or challenges that require attention;
+(e) A handover meeting with the incoming Bureau member or designated successor.
+
+The handover process should be completed within two weeks of the conclusion of the outgoing member's term or resignation, and must be documented and reported to the Bureau. In cases where no immediate successor is appointed, the handover documentation shall be maintained by the Executive Director until a successor assumes the portfolio.
 
 ## Suspension 
 A quorum of more than 50% of the Bureau members with voting rights is needed in order for a decision to be valid. If a Bureau member fails to attend more than three Bureau Meetings in a row, without explaining the reason for not attending, their position will be discussed by the Bureau. The Bureau may suspend the Bureau member in question, by a two-thirds majority vote. Moreover, the Bureau can also call a vote to suspend a Bureau member if that member has become a serious liability to IFLRY’s reputation, is suspected of some serious misconduct, or is suspected of fraudulent behaviour. Such a vote has to be called for by at least three Bureau members, and announced to the Bureau and MOs at least two weeks before the Bureau vote for suspension. The announcement has to include the grounds on which the three Bureau members believe this paragraph to be applicable. For this vote the member who is proposed to be suspended has no vote, and the vote is carried if and only if no present Bureau member votes against it, and a majority of Bureau votes cast being in favour (counting present abstentions as votes cast).
@@ -248,28 +284,33 @@ Moreover, the AC can also call a vote to suspend an AC member if that member has
 A suspension removes an AC member from their position up to and including the next General Assembly. In a case where the suspension still stands, there will be a vote of no confidence against the suspended member organised as per the Rules of Procedure at the next General Assembly. If the motion of no-confidence fails the member is reinstated. If a motion of no-confidence is carried out, a replacement will be appointed by the General Assembly as per the Rules of Procedure.
 
 # Auditors
+There shall be two auditors, who shall be elected at a General Assembly for a period of two years. They are responsible for examining the accounts and general finances of the Federation and assessing how the Bureau has carried out the decisions taken by the General Assembly. They shall produce a report at least annually which is presented to the General Assembly.
+
 It is the responsibility of the auditors to make their annual report available once a year to the member organisations two weeks before the General Assembly takes place.
 
 # Ombudsperson
+The ombudsperson shall monitor any cases of disagreement or conflict, ill-treatment, or abuse of power and authority within any part of the Federation. The role of the Ombudsperson is bound by strict rules of confidentiality and shall be executed with full integrity, impartiality, and with respect to due process, dignity, and liberal values.
 
 The Ombudsperson shall serve as guardian to protect the interests of the Federation and all its associated individuals within the day-to-day proceedings of the Bureau, Office, and 
 Auditors (as well as non-statutory bodies, such as Programme Managers) and to serve as an independent body of negotiation and mediation.
 
 The Ombudsperson shall be elected by the General Assembly and serve a term of two years. In the event that no Ombudsperson is serving, the Advisory Council shall designate an interim contact person to ensure that concerns of members and associated individuals are received. This interim contact person shall not be considered an Ombudsperson and shall not produce an annual report. The vacancy shall be filled at the next General Assembly.
 
-The Ombudsperson shall produce an annual report presented at the General Assembly. It is the responsibility of the Ombudsperson to make their annual report available once a year to the member organisations two weeks before the General Assembly takes place.
+The Ombudsperson shall produce an annual report presented at the General Assembly. It is the responsibility of the Ombudsperson to make their annual report available once a year to the member organisations two weeks before the General Assembly takes place. If there is no Ombudsperson when an annual report is expected, the Committee of Discipline and Arbitration shall produce and submit the annual report instead.
 
 # Committee of Discipline and Arbitration
 
 ## Composition 
 
-The Committee of Discipline and Arbitration shall be composed of 3 members, serving terms of two years.
+The Committee of Discipline and Arbitration shall be composed of three members, and approved by the General Assembly for a two year mandate.
 
 ## Vacancies 
 
 Vacancies shall be filled through co-option by the Advisory Council in conjunction with the Ombudsperson, the individual can then be confirmed as a full member of the committee through a vote at the next General Assembly. The individual may also choose not to seek membership of the committee, and other candidates may run. After the election, the successful candidate shall serve the remainder of the committee’s mandate.
 
 ## Juristiction 
+
+The Committee of Discipline and Arbitration shall be competent for any disciplinary issue not falling within the scope of the explicit rights of the General Assembly, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY events.
 
 In order to legitimately deliberate a case, the Committee of Discipline and Arbitration must be called upon by the Bureau, by a full or associate member organisation, by a participant of an official IFLRY event, or by the Ombudsperson.
 
@@ -281,7 +322,7 @@ The committee may impose sanctions other than expulsion at its own initiative on
 
 ## Internal Procedure
 
-The chairperson of the committee shall be elected by its members. The committee will decide its own rules of procedure. The committee shall present their rules of procedure to the General Assembly for approval. In the event of a committee member violating the Code of Conduct themselves, it is the duty of the Ombudsperson to investigate this issue. If necessary the Ombudsperson may propose to the Bureau and Advisory Council that the committee member be suspended.
+The chairperson of the committee shall be elected by its members. The committee will decide its own rules of procedure. The committee shall present its rules of procedure to the General Assembly and note changes on an ongoing basis. In the event of a committee member violating the Code of Conduct themselves, it is the duty of the Ombudsperson to investigate this issue. If necessary the Ombudsperson may propose to the Bureau and Advisory Council that the committee member be suspended.
 
 This suspension must be passed by a two-thirds majority on both bodies. A suspension removes a committee member from their position up to and including the next General Assembly.
 
@@ -289,7 +330,9 @@ This suspension must be passed by a two-thirds majority on both bodies. A suspen
 
 The committee shall possess the right to propose changes to the statutes and Code of Conduct in order to enhance the disciplinary, arbitration and safeguarding procedures of IFLRY. The committee also has the right to nominate an Ombudsperson.
 
-# Office 
+# Office {#office}
+
+The Office consists of at least the Executive Director, possibly joined by other staff as decided by the Bureau. Any changes to the Office are decided by the Bureau. In cases where the position of Executive Director is vacant, the Secretary General may act as a contact point for issues that would normally be handled by the Office. 
 
 The Office shall submit a written report to the member organisations on its activities two weeks before the start of the General Assembly. This report will reflect the work carried out by the Office, including the Executive Director and other staff and will be presented at the General Assembly. The Executive Director has the right to attend Bureau meetings, but does not have voting rights.
 
@@ -322,29 +365,71 @@ Being a Bureau member is incompatible with:
 (c) Membership in the Advisory Council
 (d) Membership in the Office
 (e) Membership in the Committee of Discipline and Arbitration
-(f) Acting as a delegate of a (voting) member organisation, unless otherwise specified in ...
+(f) Acting as a delegate of a (voting) member organisation, unless otherwise specified in [article](#incomp-delegate)
 
 ### Auditor
-Being an auditor is incompatible with being a Bureau member, as well as with points (d), (e) and (f) of [article](#incomp-bm).
 
-## Ombudsperson
-Being an Ombudsperson is incompatible with being a Bureau member, as well as with points (d), (e) and (f) of [article](#incomp-bm).
+Being an auditor is incompatible with:
+
+(a) Being a Bureau member
+(b) Membership in the Office
+(c) Membership in the Committee of Discipline and Arbitration
+(d) Acting as a delegate of a (voting) member organisation
+
+### Ombudsperson
+
+Being an Ombudsperson is incompatible with:
+
+(a) Being a Bureau member
+(b) Membership in the Office
+(c) Membership in the Committee of Discipline and Arbitration
+(d) Acting as a delegate of a (voting) member organisation
 
 ### Advisory Council
-Membership in the Advisory Council is incompatible with being a Bureau member, as well as with points (a), (d), and (f) of [article](#incomp-bm). To ensure an adequate understanding of the workings of an organisation like IFLRY, a candidate for AC membership:
 
-(g) must have at least two years of experience in an elected or managerial position in the liberal network.
+Membership in the Advisory Council is incompatible with:
+
+(a) Being a Bureau member
+(b) Being an auditor 
+(c) Membership in the Office
+(d) Acting as a delegate of a (voting) member organisation
+
+To ensure an adequate understanding of the workings of an organisation like IFLRY, a candidate for AC membership:
+
+(e) must have at least two years of experience in an elected or managerial position in the liberal network.
 
 ### Office 
-Membership in the Office is incompatible with being a Bureau member, as well as with points (a), (b), (c), (d), (e) and (f) of [article](#incomp-bm). 
+
+Membership in the Office is incompatible with:
+
+(a) Being a Bureau member
+(b) Being an auditor 
+(c) Being an ombudsperson
+(d) Membership in the Advisory Council
+(e) Membership in the Committee of Discipline and Arbitration
+(f) Acting as a delegate of a (voting) member organisation
 
 ### Committee of Discipline and Arbitration
 
-Membership in the Committee of Discipline and Arbitration is incompatible with being a Bureau member, as well as with points (a), (b), (c) and (d) of [article](#incomp-bm).
+Membership in the Committee of Discipline and Arbitration is incompatible with:
 
-### Acting as a delegate
+(a) Being a Bureau member
+(b) Being an auditor 
+(c) Being an ombudsperson
+(d) Membership in the Advisory Council
+(e) Membership in the Office
 
-Acting as a delegate is incompatible with being a Bureau member, as well as with points (a), (b), (c) and (d) of [article](#incomp-bm). A Bureau member may act as a delegate of their voting member organisation, only if no other delegate from that member  organisation is present at the General Assembly, but may never speak on behalf of the member organisation.
+### Acting as a delegate {#incomp-delegate}
+
+Acting as a delegate is incompatible with:
+
+(a) Being a Bureau member
+(b) Being an auditor 
+(c) Being an ombudsperson
+(d) Membership in the Advisory Council
+(e) Membership in the Office
+
+A Bureau member may act as a delegate of their voting member organisation, only if no other delegate from that member organisation is present at the General Assembly, but may never speak on behalf of the member organisation.
 
 # Code of Conduct
 
@@ -360,17 +445,17 @@ A global crisis is an exceptional, worldwide situation that significantly disrup
 
 A global crisis that justifies crisis management must be: 
 
-- Global in nature (not limited to a specific country or region). 
-- Prolonged and unavoidable, making in-person meetings impossible for a significant portion of the Bureau or member organisations.
-- Affecting multiple regions, preventing fair participation.
+(a) Global in nature (not limited to a specific country or region). 
+(b) Prolonged and unavoidable, making in-person meetings impossible for a significant portion of the Bureau or member organisations.
+(c) Affecting multiple regions, preventing fair participation.
 
 ## Internal Crises
 
 An internal financial crisis occurs when IFLRY lacks the necessary funds to sustain its core operations, including:
 
- - A severe funding shortfall affecting staff salaries, event organisation, or administrative costs.
- - Loss of major funding sources, such as institutional grants or partner contributions.
-- Debts or financial mismanagement that put IFLRY at risk of insolvency.
+(a) A severe funding shortfall affecting staff salaries, event organisation, or administrative costs.
+(b) Loss of major funding sources, such as institutional grants or partner contributions.
+(c) Debts or financial mismanagement that put IFLRY at risk of insolvency.
 
 ## Statutory Meetings 
 
