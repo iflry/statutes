@@ -102,12 +102,12 @@ An Extraordinary General Assembly can be called by a simple majority by the Bure
 ## The Bureau {#bureau}
 
 ### General
-The IFLRY Bureau consists of up to seven Bureau members elected by a General Assembly. The **Managing Bureau** consists of three Bureau members: **President**, **Secretary General**, and **Treasurer** who shall serve as the Board of Directors (Organe d’Administration) under Belgian Law. The **Bureau** consists of the Managing Bureau and up to four **Vice Presidents**. The Managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau are described further in the Rules of Procedure.
+The IFLRY Bureau consists of at least three and no more than seven Bureau members elected by a General Assembly. The **Managing Bureau** consists of three Bureau members: **President**, **Secretary General**, and **Treasurer** who shall serve as the Board of Directors (Organe d’Administration) under Belgian Law. The **Bureau** consists of the Managing Bureau and up to four **Vice Presidents**. The Managing Bureau will be elected for a period of two years; the Vice Presidents will be elected for a period of one year. The election and responsibilities of the Bureau are described further in the Rules of Procedure.
 
 The Bureau is responsible for the day-to-day management of the Federation and for the control of all its resources. The Bureau has to report to the General Assembly. Regional Member Organisations can appoint Regional Bureau Appointees. Regional Bureau Appointees do not have voting rights in the Bureau.
 
-### Suspension and Resignation 
-Individual Bureau Members can be suspended from their Bureau. They can also be forced to resign by the General Assembly. The details of this process are explained in the Rules of Procedure.
+### Suspension, Resignation and Dismissal
+Individual Bureau Members can be suspended from their Bureau. A Bureau member may resign at any time by written notice to the Bureau. The General Assembly, whether ordinary or extraordinary, may dismiss a Bureau member by means of a motion of no-confidence. A motion of no-confidence requires a two-thirds majority to pass, unless it was submitted as an organisational proposal four weeks before the General Assembly, in which case a simple majority suffices.
 
 ### Legal Status
 The association shall be represented towards third parties and in legal matters by at least two members of the Managing Bureau acting jointly, unless otherwise specified by the Statutes or Belgian law.

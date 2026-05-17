@@ -102,12 +102,12 @@ Une Assemblée générale extraordinaire peut être convoquée à la majorité s
 ## Le Bureau {#bureau}
 
 ### Généralités
-Le Bureau de l'IFLRY est composé d'un maximum de sept membres élus par l'Assemblée générale. Le **Bureau de gestion** est composé de trois membres : le **Président**, le **Secrétaire général** et le **Trésorier**, qui constituent l'organe d'administration conformément au droit belge. Le Bureau se compose du Bureau de gestion et d'un maximum de quatre **Vice-présidents**. Le Bureau de gestion est élu pour une durée de deux ans ; les Vice-présidents sont élus pour une durée d'un an. L'élection et les responsabilités du Bureau sont décrites plus en détail dans le Règlement d'ordre intérieur.
+Le Bureau de l'IFLRY est composé d'au moins trois et d'au plus sept membres élus par l'Assemblée générale. Le **Bureau de gestion** est composé de trois membres : le **Président**, le **Secrétaire général** et le **Trésorier**, qui constituent l'organe d'administration conformément au droit belge. Le Bureau se compose du Bureau de gestion et d'un maximum de quatre **Vice-présidents**. Le Bureau de gestion est élu pour une durée de deux ans ; les Vice-présidents sont élus pour une durée d'un an. L'élection et les responsabilités du Bureau sont décrites plus en détail dans le Règlement d'ordre intérieur.
 
 Le Bureau est responsable de la gestion journalière de la Fédération et du contrôle de toutes ses ressources. Le Bureau doit rendre compte à l'Assemblée générale. Les organisations membres régionales peuvent désigner des représentants régionaux au Bureau. Ces représentants ne disposent pas de droit de vote au sein du Bureau.
 
-### Suspension et Démission
-Les membres individuels du Bureau peuvent être suspendus de leurs fonctions. Ils peuvent également être contraints de démissionner par l'Assemblée générale. Les modalités de cette procédure sont précisées dans le Règlement d'ordre intérieur.
+### Suspension, Démission et Révocation
+Les membres individuels du Bureau peuvent être suspendus de leurs fonctions. Un membre du Bureau peut démissionner à tout moment par notification écrite au Bureau. L'Assemblée générale, qu'elle soit ordinaire ou extraordinaire, peut révoquer un membre du Bureau au moyen d'une motion de défiance. Une motion de défiance requiert une majorité des deux tiers pour être adoptée, sauf si elle a été soumise en tant que proposition organisationnelle quatre semaines avant l'Assemblée générale, auquel cas une majorité simple suffit.
 
 ### Statut juridique
 L'association est représentée à l'égard des tiers et en justice par au moins deux membres du Bureau de gestion agissant conjointement, sauf disposition contraire des Statuts ou du droit belge.
