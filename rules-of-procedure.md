@@ -93,7 +93,7 @@ No person shall act as Chair and as minute taker for the same session of the Gen
 
 # Elections {#elections}
 
-For the Bureau elections and appointments to the Advisory Council, those candidacies are valid that were received in writing by the IFLRY office four weeks before the start of the General Assembly.
+For the Bureau elections, appointments to the Advisory Council, and nominations for the Ombudsperson, those candidacies are valid that were received in writing by the IFLRY office four weeks before the start of the General Assembly.
 
 In elections where multiple rounds of voting are required, successive rounds shall be held immediately.
 
@@ -110,6 +110,15 @@ For the election of auditors, the ballot can be filled with one or two names. Ea
 
 ## Advisory Council Appointments {#ac-appointments}
 Advisory Council members will be appointed by the General Assembly through a simple majority vote.
+
+## Ombudsperson Election {#ombudsperson-election}
+The Ombudsperson shall be elected by the General Assembly by secret ballot. Where more than one candidate stands, the Ombudsperson shall be elected using instant runoff voting (IRV) with ballots giving a ranked preference of candidates. Where only one candidate stands, the Ombudsperson shall be elected by simple majority vote. Nominations may be submitted by:
+
+- the Committee of Discipline and Arbitration;
+
+- a group of no fewer than three Full Member organisations.
+
+Where the General Assembly rejects all nominees, or where no valid nominations are received, nominations from the floor shall be received from three Full Member organisations during the General Assembly, and an election shall be held following the same procedure.
 
 ## Expulsion and Replacement {#expulsion}
 It is the right of a General Assembly, both ordinary and extraordinary, to put the mandate of an elected person in question and to terminate that mandate following a motion of no-confidence. A motion of no-confidence requires a two-thirds majority vote to pass, unless it was submitted as an organisational proposal four weeks before the General Assembly, in which case it can pass with a simple majority vote.
@@ -134,7 +143,7 @@ At the opening of the General Assembly, while adopting the agenda, the membershi
 Those resolutions shall be dealt with, which, in the opinion of the General Assembly, could not have been proposed before the official deadline due to their urgent nature. Such resolutions should be submitted to the IFLRY Office before the beginning of the General Assembly, unless a two-thirds majority of those present and voting accept a later resolution as urgent.
 
 ## Reports {#reports}
-Items which report on the status quo. This includes financial reports, advisory council and auditor reports. The deadline for submitting reports is two weeks before the Statutory Meeting. The Bureau report and Annual report need to be submitted four weeks before the statutory meeting.
+Items which report on the status quo. This includes financial reports, advisory council, auditor and ombudsperson reports. The deadline for submitting reports is two weeks before the Statutory Meeting. The Bureau report and Annual report need to be submitted four weeks before the statutory meeting.
 
 ## Discharge {#discharge}
 Discharge is the formal release of an individual Bureau member from their official responsibilities and obligations upon the conclusion of their term of office or resignation. It represents the General Assembly’s recognition that the Bureau member has fulfilled their duties and is no longer accountable for them.
