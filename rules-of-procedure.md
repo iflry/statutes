@@ -76,7 +76,7 @@ Voting rights at the General Assembly shall be exercised by full member organisa
 
 Associate members and the Individual Members Group will receive one vote.
 
-All elections shall take place by secret ballot. All non-election voting shall take place by secret ballot if requested by at least one-third of the votes present.
+All votes on persons and MOs (including but not limited to elections, confirmations, votes of confidence, membership issues, and financial applications) shall take place by secret ballot. All other votes shall take place by secret ballot if requested by at least one-third of the votes present.
 
 ## Chairs and Returning Officers {#ga-chairs}
 The General Assembly shall elect four chairpersons to chair the sessions. The Chairs shall not be running for other elections. The Chairs will also chair the four Standing Committees, unless otherwise agreed by the GA.
