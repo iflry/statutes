@@ -76,7 +76,9 @@ Tous les membres s'engagent à respecter les deux obligations suivantes :
 (a) respecter les obligations financières telles que définies dans le Statut relatif aux cotisations. Les organisations et membres individuels ayant rempli ces obligations sont considérés comme étant en règle financièrement ;
 (b) respecter les valeurs telles qu'énoncées dans le Manifeste.
 
-## Suspension, Exclusion et Modification de l'adhésion
+## Retrait, Suspension et Exclusion
+Toute organisation Membre Effectif, Associé, Observateur ou Régional peut se retirer de l'association à tout moment par notification écrite au Bureau. Le retrait prend effet dès réception de cette notification et ne libère pas le membre des obligations déjà échues.
+
 Les organisations membres et les membres individuels peuvent être temporairement suspendus ou voir leur adhésion résiliée en cas de violation des obligations des membres telles que décrites à l'[article](#mem-obligations) ou pour d'autres raisons graves. La procédure de vote utilisée pour suspendre ou exclure une organisation est la même que celle utilisée pour admettre toute autre organisation d'un type d'adhésion équivalent.
 
 # Organes statutaires
