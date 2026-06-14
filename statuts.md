@@ -125,4 +125,4 @@ Toute proposition visant à dissoudre la Fédération doit être introduite par 
 
 L'Assemblée générale détermine les modalités de dissolution de la Fédération et les modalités de liquidation.
 
-En cas de dissolution, l'actif net restant de l'AISBL est affecté à une ou plusieurs organisations sans but lucratif poursuivant un but similaire, telles que déterminées par l'Assemblée générale. En aucun cas les actifs ne peuvent être distribués aux membres ni utilisés à leur profit.
+En cas de dissolution, l'actif net restant de l'AISBL est affecté à une ou plusieurs personnes morales sans but lucratif poursuivant un but désintéressé similaire à celui d'IFLRY, telles que désignées par l'Assemblée générale. En aucun cas les actifs ne peuvent être distribués aux membres ni utilisés à leur profit.
