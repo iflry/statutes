@@ -76,6 +76,11 @@ All members commit themselves to fulfilling both of the following membership obl
 (a) to adhere to the financial obligations as stated in the Membership Fee Statute. Organisations and individual members which have fulfilled these obligations are considered in good financial standing;
 (b) to uphold the values as stated in the Manifesto.
 
+## Membership Rights {#mem-rights}
+All members have the right to attend the General Assembly and to access the minutes and annual accounts of the association.
+
+Full Members have the right to vote at the General Assembly, to nominate candidates, and to put forward and amend proposals. Associate Members and the Individual Members Group have the right to vote and to put forward and amend proposals, subject to the limitations set out in the Rules of Procedure. Regional Members have the right to put forward resolutions and amendments. Observer Members have the right to observe proceedings but do not have voting rights.
+
 ## Membership Withdrawal, Suspension and Termination
 Any Full, Associate, Observer or Regional Member organisation may withdraw from the association at any time by written notice to the Bureau. Withdrawal takes effect upon receipt of that notice and does not release the member from obligations already due.
 
