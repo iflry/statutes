@@ -1,6 +1,6 @@
 ---
 title: Rules of Procedure of the International Federation of Liberal Youth
-date: As adopted by the 56th General Assembly held in Lima, Peru, 17th-19th October 2025.
+date: As adopted by the 58th General Assembly held in Taipei, Taiwan, 11th-14th June 2026.
 ---
 
 # General Assembly {#ga}
@@ -208,6 +208,24 @@ No roll call or quorum is required for the Pre-Assembly Committee.
 
 ## Roll Call
 A roll call shall be taken at the opening of each GA session and if requested. It shall be taken in the English alphabetical order of countries in connection with the vote being undertaken.
+
+During the first roll call of the GA, all Member Organisations shall be called regardless of their prior intent to participate, their current standing and whether they are present or not.
+
+In subsequent roll calls, only Member Organisations that were present during the first roll call shall be called regardless of their current standing. If a Member Organisation arrived at a later point and was not called upon, it should signal itself via a point of order at the end of the roll call.
+
+For each Member Organisation, its number of votes and status (good standing, bad standing, suspended) shall be mentioned when it's called.
+
+Before the start of the roll call, the following should be announced:
+
+- The total number of Member Organisations (regardless of their standing) and the total number of votes they have;
+- The total number of Member Organisations in good standing and the number of votes they have;
+- The required quorums.
+
+At the end of the roll call, the following should be announced:
+
+- The total number of Member Organisations in good standing present and the total number of votes they have;
+- Whether the required quorums have been reached;
+- The number of votes needed for each type of majority as defined in Article 4: Voting Thresholds of the Statutes.
 
 ## List of Speakers
 The chairperson may announce a list of speakers and with the consent of the General Assembly declare a list closed. The chairperson may announce a maximum time limit for contributions to the debate.
