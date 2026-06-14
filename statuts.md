@@ -76,6 +76,11 @@ Tous les membres s'engagent à respecter les deux obligations suivantes :
 (a) respecter les obligations financières telles que définies dans le Statut relatif aux cotisations. Les organisations et membres individuels ayant rempli ces obligations sont considérés comme étant en règle financièrement ;
 (b) respecter les valeurs telles qu'énoncées dans le Manifeste.
 
+## Droits des membres {#mem-rights}
+Tous les membres ont le droit de participer à l'Assemblée générale et d'accéder aux procès-verbaux et aux comptes annuels de l'association.
+
+Les Membres Effectifs ont le droit de vote à l'Assemblée générale, le droit de présenter des candidats, ainsi que le droit de soumettre et d'amender des propositions. Les Membres Associés et le Groupe des Membres Individuels ont le droit de vote et le droit de soumettre et d'amender des propositions, sous réserve des limitations prévues dans le Règlement d'ordre intérieur. Les Membres Régionaux ont le droit de soumettre des résolutions et des amendements. Les Membres Observateurs ont le droit d'observer les délibérations mais ne disposent pas du droit de vote.
+
 ## Retrait, Suspension et Exclusion
 Toute organisation Membre Effectif, Associé, Observateur ou Régional peut se retirer de l'association à tout moment par notification écrite au Bureau. Le retrait prend effet dès réception de cette notification et ne libère pas le membre des obligations déjà échues.
 
