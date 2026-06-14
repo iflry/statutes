@@ -1,6 +1,6 @@
 ---
 title: Statutes of the International Federation of Liberal Youth
-date: As adopted by the 56th General Assembly held in Lima, Peru, 17th-19th October 2025.
+date: As adopted by the 58th General Assembly held in Taipei, Taiwan, 11th-14th June 2026.
 ---
 
 # General
