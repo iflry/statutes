@@ -5,9 +5,13 @@ date: As adopted by the 58th General Assembly held in Taipei, Taiwan, 11th-14th 
 
 # General Assembly {#ga}
 
-The **General Assembly** (GA) is the highest decision-making body of the Federation. At the beginning of each General Assembly, the draft agenda will be decided on, the minutes of the previous meeting will be put forward for adoption and the relevant officers are proposed for appointment. This part is always chaired by the Bureau. The draft Agenda shall be made available for the membership at least four weeks prior to the General Assembly, by the Bureau or, in the case of an Extraordinary General Assembly, by those who call the meeting.
+The **General Assembly** (GA) is the highest decision-making body of the Federation. At the beginning of each General Assembly, the draft agenda will be decided on, the minutes of the previous meeting will be put forward for adoption and the relevant officers are proposed for appointment. This part is always chaired by the Bureau.
 
-The Bureau must announce the date, time and location within at least three months before the General Assembly. An invitation for the General Assembly must be circulated eight weeks prior to the General Assembly to the members via e-mail.
+The draft Agenda shall be made available for the membership at least four weeks prior to the General Assembly, by the Bureau or, in the case of an Extraordinary General Assembly, by those who call the meeting. The Bureau shall circulate the draft to the membership.
+
+The Bureau must announce the date, time and location at least three months before an **in-person** General Assembly. An invitation for the General Assembly must be circulated eight weeks prior to the General Assembly to the members via e-mail. For an **online** General Assembly, the Bureau must announce the date, time and means of access and circulate an invitation at least six weeks before the General Assembly.
+
+For an **Extraordinary General Assembly**, the invitation must state the purpose of the meeting. After the invitation is circulated, no item may be added to the agenda except procedural items.
 
 ## Format {#format}
 The General Assembly may be held either in-person or online. The General Assembly is expected to meet in-person at least once a year, unless otherwise specified in the Internal Regulations. In the case of an Extraordinary General Assembly, the Bureau shall determine
@@ -115,7 +119,7 @@ Following the expulsion of an elected person it is the right of the General Asse
 The agenda of the statutory event may include proposals and reports. The agenda will be proposed to the membership four weeks before the General Assembly.
 
 ## Organisational Proposals {#organisational-proposals}
-Items which propose a change from the status quo. This can include, but is not limited to, organisational motions, the budget proposal, and amendments to the statutory documents and code of conduct. The deadline for submitting organisational proposals is four weeks before the Statutory Meeting or one week after the announcement of an Extraordinary General Assembly, whichever gives the member organisations more time.
+Items which propose a change from the status quo. This can include, but is not limited to, organisational motions, the budget proposal, and amendments to the statutory documents and code of conduct. The deadline for submitting organisational proposals is four weeks before the Statutory Meeting.
 
 ## Political Proposals {#political-proposals}
 Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is three weeks before the General Assembly, and shall be made available to the member organisations no later than 48 hours after the deadline.
@@ -157,7 +161,7 @@ deliver a recommendation to the General Assembly.
 
 In each Standing Committee, the member organisations have one vote each, and only one delegate per member organisation may contribute to the discussion and vote of each Standing Committee. The Bureau shall, and observer members may, be represented at each Standing Committee in a non-voting capacity.
 
-The Bureau shall appoint, subject to confirmation by the General Assembly, a Chair (the congress Chairs, unless otherwise stated) and Secretary for each Standing Committee
+The Bureau shall appoint, subject to confirmation by the General Assembly, a Chair (the congress Chairs, unless otherwise stated) and Secretary for each Standing Committee. At an Extraordinary General Assembly, a Standing Committee shall not convene unless explicitly stated on the agenda.
 
 ## Standing Committee on Finances 
 The Standing Committee on Finances shall discuss and review any proposed documents and amendments dealing with the finances of the Federation prior to their consideration by the
@@ -188,7 +192,7 @@ The Standing Committee on Statutory Documents shall review any proposed amendmen
 
 # Pre-Assembly Committee
 
-A Pre-Assembly Committee shall convene online no earlier than two weeks prior to, and no later than the weekend immediately preceding, each General Assembly. The Bureau must announce the date and time at least two months prior to the General Assembly.
+A Pre-Assembly Committee shall convene online no earlier than two weeks prior to, and no later than the weekend immediately preceding, each ordinary General Assembly. It does not apply to an Extraordinary General Assembly. The Bureau must announce the date and time at least two months prior to the General Assembly.
 
 The Pre-Assembly Committee shall review all amendments to the Manifesto, resolutions, and all amendments to those resolutions submitted for consideration at the upcoming General Assembly, facilitate discussion, and will issue non-binding recommendations to the General Assembly and its Standing Committees on all of the submitted amendments to the manifesto, resolutions and the amendments to those resolutions. 
 
