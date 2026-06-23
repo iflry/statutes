@@ -49,7 +49,7 @@ The General Assembly has the exclusive authority to decide on:
 (b) Amendments to the Statutes, Rules of Procedure, Internal Regulations and Manifesto;
 (c) Expulsion of member organisations.
 
-Depending on the nature of the event, the officers for appointment may be Chairs, Secrtaries and Returning Officers.
+Depending on the nature of the event, the officers for appointment may be Chairs, Secretaries, Returning Officers and Minute takers.
 
 # Delegations {#delegations}
 
@@ -84,6 +84,12 @@ The General Assembly shall elect four chairpersons to chair the sessions. The Ch
 The chair shall appoint three returning officers to administer elections and conduct the ballot. The returning officers shall be persons not standing for elections.
 
 The returning officers shall announce the deadline for nominations for auditors.
+
+## Minute takers {#ga-minute-takers}
+
+The General Assembly shall appoint the minute takers by simple majority, on a nomination from the Bureau or from the floor. There shall be at least one minute taker, at least two where Standing Committees meet, and no more than eight. The minute takers shall ensure an accurate record of the decisions of the General Assembly.
+
+No person shall act as Chair and as minute taker for the same session of the General Assembly or of a Standing Committee. No returning officer shall act as minute taker.
 
 # Elections {#elections}
 
@@ -259,7 +265,7 @@ Should any of these motions passed during a Standing Committee have an effect ex
 Assembly.
 
 # Minutes
-The decisions of the General Assembly shall be entered in the minutes and will be made available to the members no later than 30 days following the adjournment of the General Assembly and shall be signed by one of the auditors. This falls under the responsibility of the two auditors. Any new statutory documents adopted by the General Assembly shall be published together with the minutes.
+The decisions of the General Assembly shall be entered in the minutes and will be made available to the members no later than 30 days following the adjournment of the General Assembly. Any new statutory documents adopted by the General Assembly shall be published together with the minutes. The minutes shall be signed by the two minute takers, or where only one minute taker was appointed, by that minute taker. An auditor who was present at the General Assembly may co-sign the minutes after reviewing the draft.
 
 In the case of an Extraordinary General Assembly, no decisions on items not mentioned on the agenda can be taken.
 
