@@ -115,7 +115,7 @@ Following the expulsion of an elected person it is the right of the General Asse
 The agenda of the statutory event may include proposals and reports. The agenda will be proposed to the membership four weeks before the General Assembly.
 
 ## Organisational Proposals {#organisational-proposals}
-Items which propose a change from the status quo. This can include, but is not limited to, organisational motions, the budget proposal, and amendments to the statutory documents and code of conduct. The deadline for submitting organisational proposals is four weeks before the Statutory Meeting or one week after the announcement of an Extraordinary General Assembly, whichever gives the member organisations more time.
+Items which propose a change from the status quo. This can include, but is not limited to, organisational motions, the budget proposal, and amendments to the statutory documents and code of conduct. The deadline for submitting organisational proposals is four weeks before the Statutory Meeting or one week after the announcement of an Extraordinary General Assembly, whichever gives the member organisations more time. Organisational Proposals shall be made available to the member organisations no later than 48 hours after the deadline.
 
 ## Political Proposals {#political-proposals}
 Items which propose a change from the status quo. This can include, but is not limited to, resolutions and amendments to Manifesto. Except for the Manifesto proposals, the deadline for submitting proposals is three weeks before the General Assembly, and shall be made available to the member organisations no later than 48 hours after the deadline.
