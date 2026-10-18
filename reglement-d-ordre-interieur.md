@@ -206,7 +206,7 @@ Les rédacteurs du procès-verbal consignent le résultat des votes de la Commis
 
 Aucun appel nominal ni quorum n'est requis pour la Commission pré-assemblée.
 
-# Règles de procédure des séances {#standing-oreders}
+# Règles de procédure des séances {#standing-orders}
 
 ## Appel nominal
 Un appel nominal est effectué à l'ouverture de chaque session de l'AG et sur demande. Il est effectué dans l'ordre alphabétique anglais des pays en lien avec le vote en cours.

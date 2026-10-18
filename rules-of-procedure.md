@@ -140,7 +140,7 @@ Items which report on the status quo. This includes financial reports, advisory 
 ## Discharge {#discharge}
 Discharge is the formal release of an individual Bureau member from their official responsibilities and obligations upon the conclusion of their term of office or resignation. It represents the General Assembly’s recognition that the Bureau member has fulfilled their duties and is no longer accountable for them.
 
-Discharge shall only be granted after all outstanding responsibilities have been fulfilled. This includes the completion of a proper handover as specified in the Internal Regulations, and for the Treasurer, the fulfillment of all financial obligations.
+Discharge shall only be granted after all outstanding responsibilities have been fulfilled. This includes the completion of a proper handover as specified in the Internal Regulations, and for the Treasurer, the fulfilment of all financial obligations.
 
 If responsibilities have not been fulfilled, the General Assembly may either:
 (a) postpone discharge until the responsibilities are met, or
@@ -170,9 +170,9 @@ The Bureau shall appoint, subject to confirmation by the General Assembly, a Cha
 The Standing Committee on Finances shall discuss and review any proposed documents and amendments dealing with the finances of the Federation prior to their consideration by the
 GA.
 
-The Membership Fee Statute for each upcoming year shall be proposed by the Bureau and disseminated among the member organisations four weeks prior to the General Assembly.It shall include the calculation method for the membership fees, rules regarding reduced membership fee applications and other membership fee related issues.
+The Membership Fee Statute for each upcoming year shall be proposed by the Bureau and disseminated among the member organisations four weeks prior to the General Assembly. It shall include the calculation method for the membership fees, rules regarding reduced membership fee applications and other membership fee related issues.
 
-The internal discussion on financial applications is dealt with in closed session. Participants from the General Assembly who represent the member organization being discussed, have to leave the room.
+The internal discussion on financial applications is dealt with in closed session. Participants from the General Assembly who represent the member organisation being discussed, have to leave the room.
 
 ## Standing Committee on Membership 
 The Standing Committee on Membership shall deal with the relevant membership issues prior to their consideration by the GA. This may be membership applications, membership suspensions, membership expulsion, or other relevant issues.
@@ -201,9 +201,9 @@ The Pre-Assembly Committee shall review all amendments to the Manifesto, resolut
 
 Additionally, it may submit amendments to the resolutions and amendments, both the manifesto and to the submitted resolutions, it considers, or allow Member organisations to do so with a deadline of 24 hours until the start of the General Assembly.
 
-The Committee may, to adequately deal with the workload, be divided into a number of subcommittees that shall convene simultaniously. The amount of subcommittees shall, unless otherwise communicated by the Bureau, be two, and shall not exceed three.
+The Committee may, to adequately deal with the workload, be divided into a number of subcommittees that shall convene simultaneously. The amount of subcommittees shall, unless otherwise communicated by the Bureau, be two, and shall not exceed three.
 
-The Pre-Assembly Committee shall be composed of representatives from delegates to the upcoming General Assembly, a Pre-Assembly Committee Chairs and Minute Takers, both matching the amount of subcommittees, approved after nomination from the bureau , or should that candidate not be approve, elected from its midst after nomination from the floor.
+The Pre-Assembly Committee shall be composed of representatives from delegates to the upcoming General Assembly, Pre-Assembly Committee Chairs and Minute Takers, both matching the amount of subcommittees, approved after nomination from the Bureau, or should that candidate not be approved, elected from its midst after nomination from the floor.
 
 In the Pre-Assembly Committee, the full and associate member organisations have one vote each, and only one delegate per member organisation may contribute to the discussion and vote of the Pre-Assembly Committee and each subcommittee. 
 
@@ -211,7 +211,7 @@ The Minute Takers shall record the outcome of votes at the Pre-Assembly Committe
 
 No roll call or quorum is required for the Pre-Assembly Committee.
 
-# Standing Orders {#standing-oreders}
+# Standing Orders {#standing-orders}
 
 ## Roll Call
 A roll call shall be taken at the opening of each GA session and if requested. It shall be taken in the English alphabetical order of countries in connection with the vote being undertaken.
@@ -254,11 +254,11 @@ Procedural Motions are required to be seconded unless otherwise stated, cannot i
 The order of Procedural Motions shall include but not be limited to:
 
 (a) Motion to remove the Chair, which seeks to permanently remove one or multiple chairpersons from their position. This motion may interrupt a speaker and, when raised to remove all currently available chairpersons, must include a call for a new chair who shall preside over debate on this motion. Should the motion be passed, the temporary chairperson may continue to preside over the meeting until another chairperson is available.
-(b) Motion to suspend the Chair, which seeks to temporarily remove one or multiple chairpersons from their position. This motion may interrupt a speaker, must include the duration for which the Chair is suspended and, when raised to suspend all currently available chair- persons, must include a call for a new Chair who shall preside over debate on this motion. Should the motion be passed, the temporary chairperson may continue to preside over the meeting until another chairperson is available.
-(c) Motion to reverse the decision of the Chair,which seeks to appeal the decision of the Chair, and shall be debated before being put to a vote.
+(b) Motion to suspend the Chair, which seeks to temporarily remove one or multiple chairpersons from their position. This motion may interrupt a speaker, must include the duration for which the Chair is suspended and, when raised to suspend all currently available chairpersons, must include a call for a new Chair who shall preside over debate on this motion. Should the motion be passed, the temporary chairperson may continue to preside over the meeting until another chairperson is available.
+(c) Motion to reverse the decision of the Chair, which seeks to appeal the decision of the Chair, and shall be debated before being put to a vote.
 (d) Motion for the suspension or adjournment of the session.
 (e) Motion to introduce, which seeks to put a decision before the meeting, shall be debated before being put to a vote. Should the decision in any way limit the rights of a potential minority in the meeting, it shall require a two-thirds majority to pass.
-(f) Motion to adjourn the item under discussion,which seeks to table the item currently under discussion until a specified later time.
+(f) Motion to adjourn the item under discussion, which seeks to table the item currently under discussion until a specified later time.
 (g) Motion that the question be now put to a vote, shall require a two-thirds majority.
 (h) Motion for reference back, which seeks to refer the item being discussed to an existing or directly created body, and which calls for a specific time when said body must refer back, shall be debated before being put to a vote.
 
