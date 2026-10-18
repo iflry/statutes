@@ -238,7 +238,7 @@ At the end of the roll call, the following should be announced:
 The chairperson may announce a list of speakers and with the consent of the General Assembly declare a list closed. The chairperson may announce a maximum time limit for contributions to the debate.
 
 ## Procedural Points 
-The following is a limited list of Procedural Points that can be made during the General Assembly or its Standing Procedures Committees. These points can interrupt a speaker, are not required to be seconded, are not brought up for debate, and are not put to a vote.
+The following is a limited list of Procedural Points that can be made during the General Assembly or its Standing Committees. These points can interrupt a speaker, are not required to be seconded, are not brought up for debate, and are not put to a vote.
 
 These points shall include but not be limited to:
 
