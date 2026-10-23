@@ -296,6 +296,9 @@ Auditors (as well as non-statutory bodies, such as Programme Managers) and to se
 
 The Ombudsperson shall be nominated by the Committee of Discipline and Arbitration.
 
+## Term
+The Ombudsperson is elected for a term of two years and may serve no more than two consecutive terms. The term begins at the close of the General Assembly at which the Ombudsperson is elected.
+
 ## Vacancy {#ombudsperson-vacancy}
 In the event of resignation, suspension, or other vacancy, the Advisory Council shall appoint an interim Ombudsperson who meets the eligibility criteria of [article](#candidacy). The interim Ombudsperson serves until the next General Assembly, at which point an election shall be held to fill the position for the remainder of the original term, following the procedure in the Rules of Procedure.
 
