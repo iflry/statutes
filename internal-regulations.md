@@ -484,8 +484,22 @@ The Bureau is responsible for overseeing the appropriate use of IFLRY’s intell
 
 Unauthorized or misleading use of IFLRY’s name or logo may result in corrective action. Any disputes concerning the use of IFLRY’s intellectual property shall be reviewed by the Bureau.
 
+# Keeping of Records
+
+Upon request by any member, the following shall be provided within 14 days:
+
+- Minutes of Bureau meetings including at least official decisions made by the Bureau;
+- Minutes of General Assembly meetings;
+- General Assembly preparatory and supporting documents;
+- Minutes of any meeting of an IFLRY body that has decisional power;
+- Reports produced by IFLRY bodies or officers (including but not limited to the Bureau reports, the Office reports, the Auditors reports, the Committee of Discipline and Arbitration reports, the Advisory Council reports, the Ombudsperson reports, the Data Protection Officer reports, and the financial reports).
+
+These records may be requested as soon as they are finalised, which includes provisional minutes. Provisional minutes shall be replaced by the final adopted minutes.
+
+All records shall be retained for as long as permissible under the applicable law.
+
 # Data Protection 
 The association is committed to protecting personal data in line with applicable laws. Personal data will only be collected for legitimate purposes and kept secure.
 
 ## Data Protection Officer
-he Bureau will appoint a Data Protection Officer (DPO) to oversee data protection practices. The DPO will ensure data is handled securely, especially for sensitive information like visa applications. The DPO will be responsible for overseeing the internal and external privacy olicies and will write a yearly report on their activities and findings to the General Assembly.
+The Bureau will appoint a Data Protection Officer (DPO) to oversee data protection practices. The DPO will ensure data is handled securely, especially for sensitive information like visa applications. The DPO will be responsible for overseeing the internal and external privacy policies and will write a yearly report on their activities and findings to the General Assembly.
