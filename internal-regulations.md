@@ -503,3 +503,20 @@ The association is committed to protecting personal data in line with applicable
 
 ## Data Protection Officer
 The Bureau will appoint a Data Protection Officer (DPO) to oversee data protection practices. The DPO will ensure data is handled securely, especially for sensitive information like visa applications. The DPO will be responsible for overseeing the internal and external privacy policies and will write a yearly report on their activities and findings to the General Assembly.
+
+# IFLRY Freedom Award
+
+## Purpose
+The IFLRY Freedom Award is granted to an individual or organisation that has made an outstanding contribution to the advancement of liberal values, freedom, or democracy, in alignment with the aims and Manifesto of IFLRY.
+
+## Nomination
+Any member organisation, as well as the Bureau, may submit a candidate for the IFLRY Freedom Award to the Bureau for review. Nominations must be submitted in writing to the Bureau at least six weeks before the start of the General Assembly, together with a written justification outlining the candidate's contributions and the grounds for the nomination.
+
+## Bureau review
+The Bureau shall review all nominations received and select at most one candidate to put forward to the General Assembly. The Bureau's selection shall be communicated to all member organisations at least four weeks before the start of the General Assembly, together with the written justification provided at the time of nomination. The Bureau is under no obligation to put forward a candidate if it does not consider any nomination to be sufficiently merited.
+
+## Decision
+The General Assembly shall decide by a two-thirds majority of those present and voting whether to confer the award upon the candidate put forward by the Bureau. The award may not be conferred if no candidate has been put forward by the Bureau, or if the proposed candidate fails to reach a two-thirds majority.
+
+## Frequency
+The award need not be conferred at every General Assembly. No more than one award may be conferred per calendar year.
