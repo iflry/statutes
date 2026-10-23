@@ -294,9 +294,33 @@ The ombudsperson shall monitor any cases of disagreement or conflict, ill-treatm
 The Ombudsperson shall serve as guardian to protect the interests of the Federation and all its associated individuals within the day-to-day proceedings of the Bureau, Office, and 
 Auditors (as well as non-statutory bodies, such as Programme Managers) and to serve as an independent body of negotiation and mediation.
 
-The Ombudsperson shall produce an annual report presented at the General Assembly. It is the responsibility of the Ombudsperson to make their annual report available once a year to the member organisations two weeks before the General Assembly takes place. If there is no Ombudsperson when an annual report is expected, the Committee of Discipline and Arbitration shall produce and submit the annual report instead.
-
 The Ombudsperson shall be nominated by the Committee of Discipline and Arbitration.
+
+## Vacancy {#ombudsperson-vacancy}
+In the event of resignation, suspension, or other vacancy, the Advisory Council shall appoint an interim Ombudsperson who meets the eligibility criteria of [article](#candidacy). The interim Ombudsperson serves until the next General Assembly, at which point an election shall be held to fill the position for the remainder of the original term, following the procedure in the Rules of Procedure.
+
+Where the position of Ombudsperson is vacant, reports under the Code of Conduct may be made directly to the Chair of the Advisory Council, who shall ensure interim handling consistent with the Code of Conduct procedure until an Ombudsperson is in place.
+
+## Reporting
+The Ombudsperson shall produce an annual report presented at the General Assembly. The report shall be made available to the member organisations at least two weeks before the General Assembly takes place. The annual report shall include, at a minimum, the number of reports received, the categories of issues addressed, the outcomes reached, and recommendations for systemic improvements, presented in a manner that protects the confidentiality of all individuals involved.
+
+The Ombudsperson may also report directly to the General Assembly, the Advisory Council, or the Bureau where circumstances require, while maintaining confidentiality of individual cases.
+
+## Suspension
+(a) By the General Assembly: A motion of no-confidence against the Ombudsperson may be submitted by the Bureau, by the Advisory Council, or a Full Member organisation. The motion requires a two-thirds majority to pass, unless it was submitted as an Organisational Proposal four weeks before the General Assembly, in which case it can pass with a simple majority vote.
+(b) By the Advisory Council in cases of urgent misconduct: Where the Ombudsperson is suspected of serious misconduct, breach of confidentiality, or fraudulent behaviour, and where waiting for the next General Assembly would create unacceptable risk to the Federation or to individuals, the Advisory Council may suspend the Ombudsperson by a two-thirds majority vote. Such a vote must be called for by at least two AC members and announced to the AC, the Bureau, and member organisations at least two weeks before the AC vote, including the grounds for suspension. The Ombudsperson shall be informed of the grounds and given the opportunity to respond before the vote takes place.
+
+A suspension under paragraph (b) shall be confirmed or rejected by the next General Assembly through a simple majority vote. If rejected, the Ombudsperson is reinstated. If confirmed, the position is treated as vacant under [article](#ombudsperson-vacancy).
+
+## Confidentiality and disclosure
+The Ombudsperson is bound by strict confidentiality. The Ombudsperson may disclose information about specific cases only:
+
+(a) To the Committee of Discipline and Arbitration or the ad hoc panel constituted under Article 5.6, as required by the Code of Conduct procedure;
+(b) To the Advisory Council, where necessary for the performance of the Ombudsperson's functions;
+(c) In cooperation with law enforcement, including mandatory reporting obligations under Belgian law or the law of the jurisdiction in which a relevant event takes place;
+(d) Where the affected person has given explicit written consent.
+
+The Ombudsperson shall not be required to disclose the identity of reporting persons except where required under paragraph (c) or with explicit consent under paragraph (d). Where mandatory disclosure under paragraph (c) is required, the Ombudsperson shall, where possible, inform the affected person before disclosure.
 
 # Committee of Discipline and Arbitration
 
@@ -344,7 +368,7 @@ The election of the Individual Members Group Chair shall be done on the basis of
 
 The term of office for the Individual Members Group Chair shall be one year.
 
-# Candidacy 
+# Candidacy {#candidacy}
 
 A candidate must be nominated in order to be considered by the General Assembly for a position. Full members in good standing have the right to nominate candidates for the positions in the Bureau, Auditor and the Committee of Discipline and Arbitration.
 
