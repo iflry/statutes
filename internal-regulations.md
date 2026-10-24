@@ -25,8 +25,7 @@ Observer status is valid for two years and needs to be renewed every two years. 
 The application for full membership must include the following information:
 
 (a) A completed membership application form (provided by the Bureau) containing general information required for the Membership Register;
-(b) Copies of its Statutes/Constitution, and copies of its Policy Programme/Ideological standpoint in at least one of IFLRY’s official languages and in its original form if that is not in Statutes of the
-International Federation of Liberal Youth in one of IFLRY’s official languages;
+(b) Copies of its Statutes/Constitution, and copies of its Policy Programme/Ideological standpoint in at least one of IFLRY’s official languages and in its original form if that is not in one of IFLRY’s official languages;
 (c) Information of its activities and campaigns, which have taken place during the year prior to the application and anything so far planned for the future;
 (d) Information of its sources of finance, for instance, if it receives state funding, party funds, and membership fees. It must also provide information about its financial turnover and its budget;
 (e) Details of its membership figures and also how it defines membership;
@@ -39,8 +38,7 @@ The application for associate membership must include all points of [article](#f
 The application for observer membership must include the following information:
 
 (a) A completed membership application form (provided by the Bureau) containing general information required for the Membership Register;
-(b) Copies of its Statutes/Constitution, and copies of its Policy Programme/Ideological standpoint in at least one of IFLRY’s official languages and in its original form if that is not in Statutes of the
-International Federation of Liberal Youth in one of IFLRY’s official languages;
+(b) Copies of its Statutes/Constitution, and copies of its Policy Programme/Ideological standpoint in at least one of IFLRY’s official languages and in its original form if that is not in one of IFLRY’s official languages;
 
 ### Regional Membership
 The application for regional membership must include all points of [article](#full-app).
@@ -98,7 +96,7 @@ To qualify for observer membership, an organisation must:
 (c) It must be run by and for young people;
 (d) It must be democratically organised;
 (e) It must be in agreement with the aims of IFLRY;
-(f) The applicant must be constituted as an independent organisation in its own right, with membership composed of national and sub-national youth organizations rather than individuals.
+(f) The applicant must be constituted as an independent organisation in its own right, with membership composed of national and sub-national youth organisations rather than individuals.
 (g) At least one event or activity organised by the applicant organisation must have been visited by a
 Bureau member or an appointee of the Bureau prior to their application being discussed;
 
@@ -187,7 +185,7 @@ Points (a) to (g) give a general overview of what the Vice President responsibil
 ## Term
 The President, the Secretary General and Treasurer are elected for the period of two years until the next General Assembly. The four Vice Presidents are elected for the period of one year until the next General Assembly. Notwithstanding the right of the General Assembly to put the Bureau on question and to force Bureau Members to resign. 
 
-Elections shall be held at the first General Assembly of the calendarfinancial year corresponding with the end of the Bureau members’ term. Notice of elections shall be given concurrently with notice of the General Assembly.  case of a resignation of a Bureau member, the Bureau has the power to appoint a replacement in a non-voting capacity until the next General Assembly, provided there is no meeting of the General Assembly in the following 30 days.
+Elections shall be held at the first General Assembly of the financial year corresponding with the end of the Bureau members’ term. Notice of elections shall be given concurrently with notice of the General Assembly. In case of a resignation of a Bureau member, the Bureau has the power to appoint a replacement in a non-voting capacity until the next General Assembly, provided there is no meeting of the General Assembly in the following 30 days.
 
 ## Obligations
 
@@ -268,7 +266,7 @@ In order to facilitate the AC in the execution of the above-named tasks, the Sec
 
 ### Relationship to the General Assembly
 
-No later than four weeks before every General Assembly, the AC and the Bureau will submit joint reports on the overall performance of the Federation, which includes the progress on Statutes of the International Federation of Liberal Youth the Action Plan and reports by every Bureau member on their work since the last General Assembly. For a more detailed description of the process, see [article](#breports) and Interim Report and [article](#aireport).
+No later than four weeks before every General Assembly, the AC and the Bureau will submit joint reports on the overall performance of the Federation, which includes the progress on the Action Plan and reports by every Bureau member on their work since the last General Assembly. For a more detailed description of the process, see [article](#breports) and Interim Report and [article](#aireport).
 
 ### Recommending new members
 
@@ -335,13 +333,13 @@ The Committee of Discipline and Arbitration shall be composed of three members, 
 
 Vacancies shall be filled through co-option by the Advisory Council in conjunction with the Ombudsperson, the individual can then be confirmed as a full member of the committee through a vote at the next General Assembly. The individual may also choose not to seek membership of the committee, and other candidates may run. After the election, the successful candidate shall serve the remainder of the committee’s mandate.
 
-## Juristiction 
+## Jurisdiction 
 
 The Committee of Discipline and Arbitration shall be competent for any disciplinary issue not falling within the scope of the explicit rights of the General Assembly, for any dispute between two member organisations, for any dispute between the Bureau and a member of IFLRY, and for a dispute between participants of an official IFLRY events.
 
 In order to legitimately deliberate a case, the Committee of Discipline and Arbitration must be called upon by the Bureau, by a full or associate member organisation, by a participant of an official IFLRY event, or by the Ombudsperson.
 
-The committee shall base its decisions based on the guidelines for behaviour outlined in he Code of Conduct, however it ultimately has discretion to use its own best judgement on issues that the Code of Conduct does not comprehensively cover.
+The committee shall base its decisions based on the guidelines for behaviour outlined in the Code of Conduct, however it ultimately has discretion to use its own best judgement on issues that the Code of Conduct does not comprehensively cover.
 
 ## Sanctions 
 
@@ -509,7 +507,7 @@ Individual members and third parties must seek prior approval from the Bureau be
 
 The Bureau is responsible for overseeing the appropriate use of IFLRY’s intellectual property.
 
-Unauthorized or misleading use of IFLRY’s name or logo may result in corrective action. Any disputes concerning the use of IFLRY’s intellectual property shall be reviewed by the Bureau.
+Unauthorised or misleading use of IFLRY’s name or logo may result in corrective action. Any disputes concerning the use of IFLRY’s intellectual property shall be reviewed by the Bureau.
 
 # Keeping of Records
 
