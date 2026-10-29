@@ -9,7 +9,7 @@ LINK_FILTER = config/custom-links.lua
 BUILD_FOLDER = build
 
 # Formal documents (numbered sections, TOC, line numbering)
-FORMAL_DOCS = statutes statuts estatutos rules-of-procedure reglement-d-ordre-interieur reglamento-de-procedimiento internal-regulations reglement-interne reglamento-interno manifesto code-of-conduct
+FORMAL_DOCS = statutes statuts estatutos rules-of-procedure reglement-d-ordre-interieur reglamento-de-procedimiento internal-regulations reglement-interne reglamento-interno manifesto manifeste manifiesto code-of-conduct code-de-conduite codigo-de-conducta
 
 # Default target
 all: $(foreach doc,$(FORMAL_DOCS),$(BUILD_FOLDER)/$(doc).pdf)
