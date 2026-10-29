@@ -95,7 +95,7 @@ Possible outcomes include:
 Outcomes will be proportionate and aimed at restoring safety and trust.
 
 ## Communication
-The outcome will be communicated in writing to the relevant parties. All personal identifying information of complaints, witnesses, and respondents shall be anonymised, unless the party concerned has given explicit written consent to identification, or identification is required in accordance with Article 12 (Data Protection) of the Internal Regulations. The results and recommendations should be reported in writing to the bureau, omitting members only in the circumstance of a conflict of interests. The office shall get a copy of the full report for safe keeping; the bureau shall only receive a report with the necessary information needed for enforcing outcomes.
+The outcome will be communicated in writing to the relevant parties. All personal identifying information of complaints, witnesses, and respondents shall be anonymised, unless the party concerned has given explicit written consent to identification, or identification is required in accordance with Article 13 (Data Protection) of the Internal Regulations. The results and recommendations should be reported in writing to the bureau, omitting members only in the circumstance of a conflict of interests. The office shall get a copy of the full report for safe keeping; the bureau shall only receive a report with the necessary information needed for enforcing outcomes.
 
 ## Appeals
 Decisions of the CDA may be appealed to the Advisory Council (AC) and if deemed appropriate taken up for reinvestigation.
