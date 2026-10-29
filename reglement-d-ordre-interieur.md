@@ -91,7 +91,7 @@ Nul ne peut exercer à la fois la fonction de président de séance et celle de 
 
 # Élections {#elections}
 
-Pour les élections au Bureau et les nominations au Conseil consultatif, sont valables les candidatures reçues par écrit par le Secrétariat de l'IFLRY quatre semaines avant le début de l'Assemblée générale.
+Pour les élections au Bureau, les nominations au Conseil consultatif et les candidatures au poste de Médiateur, sont valables les candidatures reçues par écrit par le Secrétariat de l'IFLRY quatre semaines avant le début de l'Assemblée générale.
 
 Lors des élections nécessitant plusieurs tours de scrutin, les tours successifs ont lieu immédiatement.
 
@@ -108,6 +108,14 @@ Pour l'élection des vérificateurs aux comptes, le bulletin peut comporter un o
 
 ## Nominations au Conseil consultatif {#ac-appointments}
 Les membres du Conseil consultatif sont nommés par l'Assemblée générale par un vote à la majorité simple.
+
+## Élection du Médiateur {#ombudsperson-election}
+Le Médiateur est élu par l'Assemblée générale au scrutin secret. Lorsque plusieurs candidats se présentent, le Médiateur est élu au scrutin à second tour instantané (vote alternatif), les bulletins comportant un classement préférentiel des candidats. Lorsqu'un seul candidat se présente, le Médiateur est élu par un vote à la majorité simple. Les candidatures peuvent être présentées par :
+
+- le Comité de discipline et d'arbitrage ;
+- un groupe d'au moins trois organisations membres effectives.
+
+Lorsque l'Assemblée générale rejette tous les candidats, ou lorsqu'aucune candidature valable n'a été reçue, des candidatures de la salle sont reçues de trois organisations membres effectives pendant l'Assemblée générale, et une élection est organisée selon la même procédure.
 
 ## Révocation et remplacement {#expulsion}
 Toute Assemblée générale, ordinaire ou extraordinaire, a le droit de mettre en question le mandat d'une personne élue et d'y mettre fin à la suite d'une motion de défiance. Une motion de défiance requiert une majorité des deux tiers pour être adoptée, sauf si elle a été soumise en tant que proposition organisationnelle quatre semaines avant l'Assemblée générale, auquel cas elle peut être adoptée à la majorité simple.
@@ -132,7 +140,7 @@ Les propositions relatives au Manifeste doivent être soumises quatre semaines a
 Sont traitées les résolutions qui, de l'avis de l'Assemblée générale, n'auraient pas pu être proposées avant la date limite officielle en raison de leur caractère urgent. Ces résolutions devraient être soumises au Secrétariat de l'IFLRY avant le début de l'Assemblée générale, à moins qu'une majorité des deux tiers des membres présents et votants n'accepte une résolution ultérieure comme urgente.
 
 ## Rapports {#reports}
-Points qui rendent compte du statu quo. Il s'agit notamment des rapports financiers, des rapports du Conseil consultatif et des vérificateurs aux comptes. La date limite de soumission des rapports est fixée à deux semaines avant la Réunion statutaire. Le rapport du Bureau et le rapport annuel doivent être soumis quatre semaines avant la réunion statutaire.
+Points qui rendent compte du statu quo. Il s'agit notamment des rapports financiers, des rapports du Conseil consultatif, des vérificateurs aux comptes et du Médiateur. La date limite de soumission des rapports est fixée à deux semaines avant la Réunion statutaire. Le rapport du Bureau et le rapport annuel doivent être soumis quatre semaines avant la réunion statutaire.
 
 ## Décharge {#discharge}
 La décharge est la libération formelle d'un membre individuel du Bureau de ses responsabilités et obligations officielles à l'issue de son mandat ou de sa démission. Elle représente la reconnaissance par l'Assemblée générale que le membre du Bureau a rempli ses fonctions et n'en est plus responsable.

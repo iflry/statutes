@@ -91,7 +91,7 @@ Nadie podrá actuar como presidente de sesión y como redactor de actas en la mi
 
 # Elecciones {#elections}
 
-Para las elecciones al Bureau y los nombramientos al Consejo Asesor, son válidas las candidaturas recibidas por escrito en la Oficina de IFLRY cuatro semanas antes del inicio de la Asamblea General.
+Para las elecciones al Bureau, los nombramientos al Consejo Asesor y las candidaturas al cargo de Defensor, son válidas las candidaturas recibidas por escrito en la Oficina de IFLRY cuatro semanas antes del inicio de la Asamblea General.
 
 En las elecciones que requieran varias rondas de votación, las rondas sucesivas se celebrarán de inmediato.
 
@@ -108,6 +108,14 @@ Para la elección de los auditores, la papeleta puede incluir uno o dos nombres.
 
 ## Nombramientos al Consejo Asesor {#ac-appointments}
 Los miembros del Consejo Asesor serán nombrados por la Asamblea General mediante votación por mayoría simple.
+
+## Elección del Defensor {#ombudsperson-election}
+El Defensor será elegido por la Asamblea General mediante votación secreta. Cuando se presente más de un candidato, el Defensor se elegirá mediante voto alternativo (segunda vuelta instantánea), con papeletas en las que se ordenan los candidatos por preferencia. Cuando se presente un solo candidato, el Defensor se elegirá por mayoría simple. Las candidaturas podrán ser presentadas por:
+
+- el Comité de Disciplina y Arbitraje;
+- un grupo de al menos tres organizaciones Miembros de Pleno Derecho.
+
+Cuando la Asamblea General rechace a todos los candidatos, o cuando no se hayan recibido candidaturas válidas, se recibirán candidaturas desde la sala de tres organizaciones Miembros de Pleno Derecho durante la Asamblea General, y se celebrará una elección siguiendo el mismo procedimiento.
 
 ## Destitución y sustitución {#expulsion}
 Toda Asamblea General, ordinaria o extraordinaria, tiene derecho a cuestionar el mandato de una persona electa y a poner fin a dicho mandato mediante una moción de censura. Una moción de censura requiere una mayoría de dos tercios para ser aprobada, salvo que haya sido presentada como propuesta organizativa cuatro semanas antes de la Asamblea General, en cuyo caso puede aprobarse por mayoría simple.
@@ -132,7 +140,7 @@ En la apertura de la Asamblea General, al aprobar el orden del día, los miembro
 Se tramitarán aquellas resoluciones que, a juicio de la Asamblea General, no hubieran podido proponerse antes del plazo oficial debido a su carácter urgente. Dichas resoluciones deberían presentarse a la Oficina de IFLRY antes del inicio de la Asamblea General, salvo que una mayoría de dos tercios de los presentes y votantes acepte como urgente una resolución posterior.
 
 ## Informes {#reports}
-Puntos que informan sobre el statu quo. Incluyen los informes financieros, los informes del Consejo Asesor y los de los auditores. El plazo para presentar informes es de dos semanas antes de la Reunión Estatutaria. El informe del Bureau y el informe anual deben presentarse cuatro semanas antes de la reunión estatutaria.
+Puntos que informan sobre el statu quo. Incluyen los informes financieros, los informes del Consejo Asesor, los de los auditores y los del Defensor. El plazo para presentar informes es de dos semanas antes de la Reunión Estatutaria. El informe del Bureau y el informe anual deben presentarse cuatro semanas antes de la reunión estatutaria.
 
 ## Descargo {#discharge}
 El descargo es la liberación formal de un miembro individual del Bureau de sus responsabilidades y obligaciones oficiales al concluir su mandato o tras su dimisión. Representa el reconocimiento por parte de la Asamblea General de que el miembro del Bureau ha cumplido sus funciones y ya no es responsable de ellas.
